@@ -1,0 +1,615 @@
+AllergenID,Allergen,Concentration,Medium,Series,Category,Grouping,SeriesAC,SeriesAU,SeriesBB,SeriesEU,SeriesIC,SeriesNA,SeriesJP,CategoryAA,CategoryAP,CategoryCS,CategoryDC,CategoryEE,CategoryEM,CategoryFA,CategoryLA,CategoryMC,CategoryMS,CategoryNP,CategoryPF,CategoryPG,CategoryRC,CategoryST,GroupCG,GroupBA,GroupCL,GroupDP,GroupDT,GroupEL,GroupFW,GroupHD,GroupLU,GroupMI,GroupPA,GroupPC,GroupSS
+AP119,(nitrobutyl)morpholine / (ethylnitrotrimethylene)dimorpholine (Bioban™ P 1487),1.0,petrolatum,,AP,CL,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+MS398,"1,2-benzisothiazoline-3-one, sodium salt",0.1,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CL430,"1,3,5-tris(2-hydroxyethyl)-hexahydrotriazine (Grotan BK)",1.0,petrolatum,,AP,CG CL,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+DM211,"1,3-butandiol-dimethacrylate",2.0,petrolatum,,PG,DP,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+RC265,"1,3-diphenylguanidine (DPG)",1.0,petrolatum,AC NA,RC,FW,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+PG319,"1,4-butandioldimethacrylat (BUDMA)",2.0,petrolatum,,PG,DP DT,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+PG320,"1,4-butanedioldiglycidyl ether",0.25,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+PG321,"1,6-hexanediol diglycidyl ether",0.25,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+CL440,2-(2-aminoethoxy)ethanol (diglycolamine),1.0,petrolatum,,,CL,,,,,,,,,,,,,,,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False
+NA03,"2-bromo-2-nitropropane-1,3-diol (bronopol™)",0.5,petrolatum,AC AU BB NA,AP,CG CL EL HD,True,True,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,False,False,False,False
+PG295,2-ethylhexyl acrylate,0.1,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+SS500,2-ethylhexyl p-(dimethylamino)benzoate,10.0,petrolatum,,,PA SS,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,True
+SS501,2-ethylhexyl-4-methoxycinnamate (octinoxate),10.0,petrolatum,AC AU,,PA SS,True,True,False,False,False,False,False,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,True
+NA85,2-hydroxy-4-methoxybenzophenone (oxybenzone),10.0,petrolatum,AC AU NA,,CG PA SS,True,True,False,False,False,True,False,,,,,,,,,,,,,,,,True,False,False,False,False,False,False,False,False,False,True,False,True
+NA72,2-hydroxyethyl methacrylate (HEMA),2.0,petrolatum,AC AU NA,PG,DP DT,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+DM210,2-hydroxyethyl methacrylate (HEMA),1.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+DM212,2-hydroxy-ethylacrylate,0.1,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+AP75,"2-hydroxymethyl-2-nitro-1,3-propanediol",1.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+DM213,2-hydroxypropyl-methacrylate,2.0,petrolatum,,PG,DT,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+RC266,2-mercaptobenzimidazole,1.0,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+ST160,2-mercaptobenzothiazole,2.0,petrolatum,AU BB EU IC,RC,CL FW,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+NA05,2-mercaptobenzothiazole,1.0,petrolatum,AC NA,RC,,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+PA460,"3,4,4'-triclocarban",1.0,petrolatum,,AP,CL PA,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+SS503,"3,4-methyl benzylidene camphor",10.0,petrolatum,,,PA SS,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,True
+HD475,3-aminophenol,1.0,petrolatum,,DC,HD,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+PG296,"4,4'-diaminodiphenylmethane",0.5,petrolatum,,PG,FW,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+RC267,"4,4'-dihydroxybiphenyl",0.1,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+CL433,"4,4-dimethyl-1,3-oxazolidine/3,4,4-trimethyl-1,3-oxazolidine (Bioban CS 1135)",1.0,petrolatum,,,CL,,,,,,,,,,,,,,,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False
+DC320,4-aminoazobenzene,1.0,petrolatum,,DC,FW,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+NA06,"4-chloro-3,5-xylenol (PCMX)",1.0,petrolatum,AC AU BB NA,AP,CG CL HD,True,True,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False
+EE367,4-chloro-3-cresol (PCMC),1.0,petrolatum,AC AU BB,AP,CG CL HD LU,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False
+AP76,4-hexyl-resorcinol,0.25,petrolatum,,ST,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,,,,,,,,,,,
+NA07,4-phenylenediamine base,1.0,petrolatum,AC AU BB EU IC NA JP,DC,EL FW HD PC,True,True,True,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,True,False
+PG297,4-tert-butylcatechol,1.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+NA08,4-tert-butylphenol formaldehyde resin,1.0,petrolatum,AC AU BB EU IC NA JP,PG,FW,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+CL434,7-ethylbicyclooxazolidine (Bioban CS 1246),1.0,petrolatum,,AP,CL,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+PG298,abietic acid,10.0,petrolatum,,NP PG,CL,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+EE364,abitol,10.0,petrolatum,,NP,CG,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+MS370,acetylsalicylic acid,10.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+NH445,alpha pinene,15.0,petrolatum,,NP,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,,,,,,,,,,,
+PF125,alpha-amylcinnamic aldeyhde,1.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF164,alpha-hexylcinnamic aldehyde,10.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+MC262,aluminum hydroxide,10.0,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+DM232,"amalgam (Hg 2.5%, Ag 1.7%, Cu 0.3%, Sn 0.4%, Zn 0.025%)",5.0,petrolatum,,,DP,,,,,,,,,,,,,,,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False
+DM233,"amalgam alloying metals (Ag 13.9%, Cu 2.4%, Sn 3.5%, Zn 0.2%)",20.0,petrolatum,,,DP,,,,,,,,,,,,,,,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False
+FA180,amaranth,0.1,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS490,amcinonide,0.1,petrolatum,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA89,amerchol L101,50.0,petrolatum,ACAUBBNA,EE,CG CL LU,True,True,True,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False
+NA10,amidoamine (stearamidopropyl dimethylamine),0.1,water,ACNA,EE,CG EL HD,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False
+MS994,aminophenazone,10.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+DM216,ammoniated mercury,1.0,petrolatum,,MC,DP,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+MC239,ammonium heptamolybdate,2.0,water,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+MC240,ammonium heptamolybdate,1.0,water,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+HD476,ammonium persulfate,2.5,petrolatum,,,BA HD PC,,,,,,,,,,,,,,,,,,,,,,,False,True,False,False,False,False,False,True,False,False,False,True,False
+DM217,ammonium tetrachloroplatinate,0.25,petrolatum,,MC,DP MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+HD482,ammonium thioglycolate,1.0,water,,,HD,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,True,False,False,False,False,False
+AA414,ampicillin,5.0,petrolatum,,AA,,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PF157,amylcinnamic alcohol,1.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+DC322,aniline,1.0,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PF158,anisyl alcohol,1.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+MC986,antimony chloride,1.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+FA181,aspartame,0.1,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NH456,atranorin,0.1,petrolatum,,NP,PA,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+EM396,atropine sulfate,1.0,water,,EM,,,,,,,,,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+FA182,azorubine,0.1,ethanol,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA11,bacitracin,20.0,petrolatum,AC NA,AA,EL LU,True,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False
+NA12,balsam of peru (myroxylon pereirae resin),25.0,petrolatum,AC AU BB EU IC NA JP,PF,BA CG DP EL HD LU PA,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,True,False,True,False,False
+DC341,basic red 46,1.0,petrolatum,AU,DC,FW,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+PF996,bay leaf oil,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF126,benzaldehyde,5.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+AP77,benzalkonium chloride,0.1,petrolatum,AC AU,AP EM,EL LU,True,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False
+CL431,benzisothiazolinone,0.1,petrolatum,,AP,CL,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+NA13,benzocaine,5.0,petrolatum,AC AU EU NA,LA,,True,True,False,True,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+FA183,benzoic acid,1.0,ethanol,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP78,benzoic acid,5.0,petrolatum,,AP,BA,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+SS509,benzophenone-4,2.0,petrolatum,AC AU,,CG PA SS,True,True,False,False,False,False,False,,,,,,,,,,,,,,,,True,False,False,False,False,False,False,False,False,False,True,False,True
+SS506,benzophenone-4 (sulisobenzone),10.0,petrolatum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AP79,benzotriazole,1.0,petrolatum,,AP,CL PC,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+DM218,benzoyl peroxide,1.0,petrolatum,,PG,BA DP DT LU MI,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,True,False,False,False,True,True,False,False,False
+AP118,benzyl alcohol,5.0,petrolatum,AC AU,AP PF,CG PC,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+NA67,benzyl alcohol,1.0,petrolatum,,AP PF,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF127,benzyl cinnamate,5.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF128,benzyl salicylate,1.0,petrolatum,,PF,CG,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+PF159,benzylbenzoate,1.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+CL432,benzylhemiformal,1.0,petrolatum,,AP,CL,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+AP121,benzyl-p-hydroxybenzoate,3.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MC990,beryllium(II) chloride,1.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+CS500,"betamethason-17,21 dipropionate",0.5,petrolatum,AU,CS,,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS997,"betamethasone-17,21-dipropionate",0.1,ethanol,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS506,betamethasone-17-valerate,1.0,petrolatum,AU,CS,,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS999,betamethasone-17-valerate,0.1,ethanol,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS491,betamethasone-17-valerate,0.12,petrolatum,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PG299,bis(2-ethylhexyl) phthalate,5.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+RC292,bis(dibenzyldithiocarbamato)zinc,1.0,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+DM219,BIS-GMA (bisphenol A-glycidyl methacrylate),2.0,petrolatum,,PG,DP DT,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+DC339,bismark brown R,0.5,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+DM220,bisphenol A,1.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+NA33,bisphenol A epoxy resin,1.0,petrolatum,AC AU BB EU IC NA JP,PG,DP DT FW,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,True,False,False,False,False,False,False
+PG315,bisphenol F,1.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+DM221,bisphenol-A-dimethacrylate,2.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+PA462,bithionol,1.0,petrolatum,,,PA,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False
+NA15,black rubber mix - PPD [B],0.6,petrolatum,AC AU NA JP,RC,EL,True,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+,"N-dimethyl-1, C-butyl-N-phenyl-p-phenylenediamine (DMBPPD) 0.25% ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,diphenyl-p-phenylenediamine (DPPD) 0.25% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,N-isopropyl-N-phenyl-p-phenylenediamine (IPPD) 0.1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FA184,brilliant black,0.1,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA16,budesonide,0.1,petrolatum,AC AU BB NA,CS,LU,True,True,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+CS497,budesonide,0.01,petrolatum,EU IC,CS,,False,False,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+ST163,bufexamac,5.0,petrolatum,AU,MS,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+PG322,butyl glycidyl ether,0.25,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+PG300,butylacrylate,0.1,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+FA185,butylhydroxyanisole (BHA),2.0,ethanol,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EE346,butylhydroxyanisole (BHA),2.0,petrolatum,,AP,BA CG,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+EE347,butylhydroxytoluene (BHT),2.0,petrolatum,AC,AP,BA CG LU,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,True,False,False,False,False
+FA186,butylhydroxytoluene (BHT),1.0,ethanol,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP81,butyl-p-hydroxybenzoate,3.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MC241,cadmium chloride,0.5,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+MC976,cadmium sulfate,2.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+LA525,caine mix [A],7.0,petrolatum,BB,LA,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+,benzocaine 5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,cinchocaine-HCl 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,tetracaine-HCl 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LA524,caine mix [C],7.0,petrolatum,JP,LA,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+,benzocaine 5% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,cinchocaine-HCl 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,procaine-HCl 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS371,camphor,1.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+NA65,cananga odorata (ylang ylang),2.0,petrolatum,AC NA,PF,CG,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+NA18,carba mix,3.0,petrolatum,AC AU BB IC NA,RC,,True,True,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+,"1,3 diphenylguanidine 1% ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,zinc bis(diethyldithiocarbamate) 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,zinc bis(dibutyldithiocarbamate) 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EM999,carboxymethyl cellulose sodium,2.0,petrolatum,,EE EM,,,,,,,,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+FA187,carmine,0.5,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA91,carmine,2.5,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA73,carvone,5.0,petrolatum,,PF,DP,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+PF139,cedar oil,10.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+AP82,cetalkonium chloride,0.1,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP83,cetylpyridinium chloride,0.1,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+ST164,cetylstearylalcohol,20.0,petrolatum,AC AU BB,EE,CG LU,True,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False
+MS391,chloramphenicol,5.0,petrolatum,,AA EM,LU,,,,,,,,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+AP84,chlorhexidine digluconate,0.5,water,AC,AP EM,CG LU PA DP DT,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+AP126,chlorhexidine digluconate,1.0,water,,EM,,,,,,,,,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP85,chloroacetamide,0.2,petrolatum,AU,AP,CG CL HD LU,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False
+AA415,chlorotetracycline-HCl,1.0,petrolatum,,AA EM,,,,,,,,,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EM398,chlorphenamine maleate,5.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+PA463,chlorpromazine-HCl,1.0,petrolatum,,MS,PA,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+MS372,chlorquinaldol,5.0,petrolatum,,AA,,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MC243,chromium(III) chloride,1.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+MC242,chromium(III) sulfate hydrate,0.5,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+LA520,cinchocaine-HCl,5.0,petrolatum,,LA,,,,,,,,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA26,cinchocaine-HCl,2.5,petrolatum,AC,LA,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PF129,cinnamic alcohol,1.0,petrolatum,,PF,BA,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+NA19,cinnamic aldehyde,1.0,petrolatum,AC NA,PF,BA EL,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+PF160,citral,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF130,citronellal,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF161,citronellol,1.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+AP86,clioquinol,5.0,petrolatum,EU,AA,CG LU,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False
+CS998,clobetasol-17-propionate,0.1,ethanol,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS492,clobetasol-17-propionate,0.25,petrolatum,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA20,clobetasol-17-propionate,1.0,petrolatum,AC NA,CS,,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AA426,clotrimazole,1.0,petrolatum,,AA,,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NH448,coal tar,5.0,petrolatum,,NP,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,,,,,,,,,,,
+NA21,cobalt (II) chloride hexahydrate,1.0,petrolatum,AC AU BB EU IC NA JP,MC,DP DT EL HD MI,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,True,False,True,False,True,False,False,False
+MC244,cobalt (II) sulfate,2.5,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+NA22,cocamidopropyl betaine,1.0,water,AC AU NA,EE,CG EL HD,True,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False
+FA188,cochineal red,1.0,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA23,coconut diethanolamide (cocamide DEA),0.5,petrolatum,AC AU NA,EE,CG CL,True,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+EE349,cold cream,100.0,petrolatum,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA24,colophony,20.0,petrolatum,AC AU BB EU IC NA JP,NP,DP EL FW,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False
+NA25,compositae mix,6.0,petrolatum,AC AU BB IC NA,NP,,True,True,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,,,,,,,,,,,
+,tanacetum vulgare 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,arnica montana 0.5% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,parthenolide 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,chamomilla romana 2.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,achillea millefolium 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MC245,copper sulfate pentahydrate,2.0,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+DM222,copper sulfate pentahydrate,1.0,water,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+CS507,corticosteroide mix,2.01,petrolatum,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+,hydrocortisone 21-acetate 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,hydrocortisone 17-butyrate 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,budesonide 0.01%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PF162,coumarin,5.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PG305,cresyl glycidyl ether,0.25,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+MS393,cyanocobalamin,10.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+RC293,cyclohexylthiophthalimide,0.5,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+NA74,decyl glucoside,5.0,petrolatum,AC NA,EE,CG,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+NA68,desoximethasone,1.0,petrolatum,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS493,dexamethasone,0.5,petrolatum,,CSEM,,,,,,,,,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS502,dexamethasone-21-phospate,1.0,petrolatum,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MS373,dexpanthenol,5.0,petrolatum,,EM MS,,,,,,,,,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+NH999,diallyl disulfide,1.0,petrolatum,,NP,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,,,,,,,,,,,
+AP87,diazolidinyl urea,2.0,petrolatum,AU BB IC,AP,HD LU,False,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+NA01,diazolidinyl urea (Germall® II),1.0,petrolatum,AC NA,AP,CG,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+RC270,dibenzothiazyl disulfide (MBTS),1.0,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+RC271,dibutylphthalate,5.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+RC272,dibutylthiourea,1.0,petrolatum,,RC,FW,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+AP89,dichlorophene,0.5,petrolatum,,AP,CL,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+MS374,diclofenac,5.0,petrolatum,,EM MS,,,,,,,,,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+MS394,diclofenac,2.5,petrolatum,,EM MS,,,,,,,,,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+EE350,diethanolamine,2.0,petrolatum,,EE,CL PC,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+PG323,diethylenetriamine,1.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+PG301,diethylphthalate,5.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+RC999,diethylthiourea,1.0,petrolatum,,RC,FW,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+EE366,dimethylaminopropylamine,1.0,petrolatum,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA75,dimethylaminopropylamine (DMAPA),1.0,water,AC NA,EE,CG EL HD,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False
+NA27,dimethylol dihydroxyethyleneurea,4.5,water,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+PG302,dimethylphthalate,5.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+RC276,dipentamethylenethiuram disulfide,0.25,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+RC273,dipentamethylenethiuram tetrasulfide,0.25,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+PG303,"diphenylmethane-4,4'-diisocyanate",1.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+RC274,diphenyl-p-phenylenediamine,0.25,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+RC275,diphenylthiourea,1.0,petrolatum,,RC,FW,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+EM399,disodium edetate,1.0,petrolatum,,EM,PC,,,,,,,,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+DC340,disperse blue 106,0.2,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+DC998,disperse blue 124,1.0,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA83,disperse blue mix (124/106),1.0,petrolatum,AC AU BB NA,DC,,True,True,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+,disperse blue 124 0.5% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,disperse blue 106 0.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DC324,disperse blue-3,1.0,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+DC325,disperse orange-3,1.0,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+DC326,disperse red-1,1.0,petrolatum,,DC,FW,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+DC327,disperse red-11,1.0,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+DC328,disperse red-17,1.0,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+DC329,disperse yellow-3,1.0,petrolatum,,DC,FW,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+DC330,disperse yellow-9,1.0,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+RC290,dithiocarbamate mix,2.0,petrolatum,JP,RC,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+,dimethyldithiocarbamic acid zinc salt 0.5% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,diethyldithiocarbamic acid zinc salt 0.5% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,di-N-butyldithiocarbamic acid zinc salt 0.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,N-ethyl-N-phenyldithiocarbamic acid zinc salt 0.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NA87,dl alpha tocopherol,100.0,,AC NA,NP,BA CG,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+NA79,d-limonene,3.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF132,d-limonene,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+NA92,dl-limonene (dipentene),2.0,petrolatum,AU,NP PF,BA CL,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False
+NA31,DMDM hydantoin,1.0,petrolatum,AC NA,AP,CG EL,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+AP90,DMDM hydantoin,2.0,water,AU,AP,,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP91,dodecyl gallate,0.3,petrolatum,,AP,BA CG,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+RC277,dodecyl mercaptan,0.1,petrolatum,,RC,FW,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+AA427,erythromycin,2.0,petrolatum,,AA,,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AA417,erythromycin,1.0,petrolatum,,AA,,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+DC332,erythrosin-B,0.25,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+FA189,erythrosin-B,0.25,ethanol,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA34,ethyl acrylate,0.1,petrolatum,AC NA,PG,DT EL,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+NA90,ethyl cyanoacrylate,2.5,petrolatum,AC,PG,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+NA101,ethyl hexyl glycerol,5.0,petrolatum,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA35,ethylenediamine dihydrochloride,1.0,petrolatum,AC BB NA,PG RC,CG CL PC,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,True,False,False,False,False,False,False,False,False,True,False
+DM224,ethyleneglycol dimethacrylate (EGDMA),2.0,petrolatum,,PG,DP DT,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+PG316,"ethyleneurea, melamine formaldehyde mix",5.0,petrolatum,AC,PG,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+,ethyleneurea 2.5% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,melamine formaldehyde resin 2.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PG324,ethylmethacrylate,2.0,petrolatum,,PG,DT,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+AP92,ethyl-p-hydroxybenzoate,3.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PF133,eugenol,1.0,petrolatum,,PF,BA DP DT,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False
+PF163,farnesol,5.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+MC264,ferric chloride,2.0,water,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+MC247,ferrous sulfate,5.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+NA94,formaldehyde,2.0,water,BB EU IC NA,AP,CL HD,False,False,True,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+NA37,formaldehyde,1.0,water,AC AU NA JP,AP,EL FW,True,True,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False
+FA190,formic acid,1.0,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PF155,fragrance mix [A],8.0,petrolatum,JP,PF,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+,eugenol 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,geraniol 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,cinnamic aldehyde 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,cinnamic alcohol 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,amylcinnamic aldehyde 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,hydroxycitronellal 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,isoeugenol 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,sandalwood oil 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PF156,fragrance mix [B],8.0,petrolatum,IC,PF,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+,eugenol 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,geraniol 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,cinnamic aldehyde 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,cinnamic alcohole 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,alpha-amylcinnamicaldehyde 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,hydroxycitronellal 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,isoeugenol 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,oakmoss absolute 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NA70,fragrance mix II,14.0,petrolatum,AC AU BB EU IC NA,PF,CG HD LU,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+,coumarin 2.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,lyral 2.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,citronellol 0.5% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,farnesol 2.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,citral 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,alpha-hexylcinnamic aldehyde 5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NA38,fragrance mix,8.0,petrolatum,AC AU BB IC NA,PF,CG EL HD LU PA,True,True,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False,True,True,False,True,False,False
+,eugenol 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,geraniol 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,cinnamic aldehyde 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,cinnamic alcohol 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,amylcinnamic aldehyde 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,hydroxycitronellal 1% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,isoeugenol 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,oakmoss absolute 1%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AA428,framycetin sulfate,10.0,petrolatum,,AA,LU,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+AA418,fusidic acid sodium salt,2.0,petrolatum,BB,AA EM,LU,False,False,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+MC248,gallium oxide,1.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+PF169,gamma methylionone,0.1,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+AA419,gentamicin sulfate,20.0,petrolatum,,AA EM,MI,,,,,,,,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+PF134,geraniol,1.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+MC992,germanium(IV) chloride,2.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+NA39,glutaraldehyde,1.0,petrolatum,AC,AP,,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP93,glutaraldehyde,0.3,petrolatum,,AP,DT FW PC,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False
+NA40,glyceryl monothioglycolate  ,1.0,petrolatum,,,HD,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,True,False,False,False,False,False
+AP95,glyoxal trimeric dihydrate,1.0,petrolatum,,AP,CL,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+DM228,gold sodium thiosulfate,0.25,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+MC254,gold sodium thiosulfate,0.5,petrolatum,AC JP,MC,DP DT EL MI,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,True,False,False,False
+PA464,hexachlorophene,1.0,petrolatum,,,PA,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False
+RC278,hexamethylenetetramine,1.0,petrolatum,,PG RC,CG,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+EE373,hexylene glycol,10.0,water,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PC625,hydrazine sulfate,1.0,petrolatum,,,CL PC,,,,,,,,,,,,,,,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,True,False
+CS496,hydrocortisone,1.0,petrolatum,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS994,hydrocortisone aceponate,1.0,ethanol,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS494,hydrocortisone-17-butyrate,0.1,petrolatum,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA93,hydrocortisone-17-butyrate,1.0,petrolatum,AC IC NA,CS,,True,False,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA69,hydrocortisone-17-butyrate,1.0,ethanol,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PC626,hydroquinone,1.0,petrolatum,,,DP DT HD MI PC,,,,,,,,,,,,,,,,,,,,,,,False,False,False,True,True,False,False,True,False,True,False,True,False
+RC279,hydroquinone monobenzylether,1.0,petrolatum,,RC,FW,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+PF135,hydroxycitronellal,1.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+MS997,ibuprofen,5.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+NA43,imidazolidinyl urea (Germall® 115),2.0,petrolatum,AC AU BB IC NA,AP,CG EL HD LU,True,True,True,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,True,False,False,False,False
+MC249,indium(III) chloride,1.0,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+MS375,indomethacin,1.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+EM400,iododeoxyuridine,1.0,petrolatum,,EM,,,,,,,,,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP97,iodoform,5.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP98,iodopropynyl butylcarbamate,0.2,petrolatum,AC,AP,CG CL,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+NA44,iodopropynyl butylcarbamate,0.5,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MC988,iridium(III) chloride,1.0,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+SS507,isoamyl-p-methoxycinnamate,10.0,petrolatum,,,PA SS,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,True
+PF137,isoeugenol,1.0,petrolatum,,PF,BA,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+PG304,isophorone diamine (IPD),0.5,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+EE351,isopropylmyristate,10.0,petrolatum,,EE,CG,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+NA76,jasminum officinale oil (jasminum grandiflorum),2.0,petrolatum,AC,PF,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+AA420,kanamycin sulfate,10.0,petrolatum,,AA EM,,,,,,,,,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MS996,ketoprofen,2.5,petrolatum,,MS,PA,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+NA64,lanolin alcohol    ,30.0,petrolatum,AU BB EU IC JP,EE,EL,False,True,True,True,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+EE374,lauryl glycoside,3.0,petrolatum,,EE,CG HD,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+NA81,lavandula angustifolia oil (lavender oil),2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+NA233,lichen acid mix,0.3,petrolatum,,NP,PA,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+NA47,lidocaine-HCl,15.0,petrolatum,AC AU NA,LA,,True,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PF998,limonene hydroperoxide,0.3,petrolatum,PF,PF,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF997,linalool hydroperoxide,1.0,petrolatum,PF,PF,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+ST161,lyral (4-(4-hydroxy-4-methyl pentyl)-3-cyclohexene-1-carboxaldehyde),5.0,petrolatum,AU BB EU IC,PF,,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+MS376,mafenide,10.0,petrolatum,,AA,,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA77,majantole,5.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+MC995,manganese chloride,0.5,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+MC977,manganese oxide,10.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+PG326,melamine formaldehyde resin,7.0,petrolatum,,PG,DT FW,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False
+NA82,mentha piperita oil (peppermint oil),2.0,petrolatum,,PF,CG DP,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+MS377,menthol,1.0,petrolatum,,PF,BA DP,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+NA205,menthyl anthranilate (meradimate),,,,,SS,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True
+LA521,mepivacaine-HCl,1.0,petrolatum,,LA,,,,,,,,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA48,mercapto mix [A],1.0,petrolatum,AC,RC,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+,N-cyclohexyl-2-benzothiazyl-sulfenamide 0.333% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,dibenzothiazyl disulfide 0.333% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,morpholinyl mercaptobenzothiazole 0.333%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ST176,mercapto mix [B],2.0,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+,N-cyclohexyl-2-benzothiazylsulfenamide 0.666% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,dibenzothiazyldisulfide 0.666% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,morpholinylmercaptobenzothiazole 0.666%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ST181,mercapto mix [C],2.0,petrolatum,AU BB EU IC JP,RC,FW,False,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+,N-cyclohexyl-2-benzothiazylsulphenamide 0.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,dibenzothiazyldisulfide 0.5% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2-mercaptobenzothiazole 0.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,morpholinylmercaptobenzothiazole 0.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MC250,mercury,0.5,petrolatum,,MC,DP DT,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+DM999,mercury-(II)-chloride,0.1,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+MS378,metamizol,1.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+DC333,metanil yellow (acid yellow 36),1.0,petrolatum,,DC,FW,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+NA49,methyl methacrylate,2.0,petrolatum,AC NA,PG,DP DT EL MI,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,True,False,False,False,True,False,False,False
+MS379,methyl salicylate,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+DC334,methyl violet,0.5,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP125,methylchloroisothiazolinone/methylisothiazolinone,0.02,water,AP AU BB IC,AP,CL,False,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+NA09,methylchloroisothiazolinone/methylisothiazolinone,0.01,water,AC EU NA JP,AP,CG EL FW HD,True,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,False,False,False,False
+ST177,methyldibromo glutaronitrile (MDBGN),0.5,petrolatum,AC AU EU,AP,CG CL EL,True,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False
+ST165,methyldibromo glutaronitrile (MDBGN),0.3,petrolatum,BB IC,AP,,False,False,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA50,methyldibromo glutaronitrile/phenoxyethanol (MDBGN/PE-Euxyl K 400),2.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP113,methyldibromo glutaronitrile/phenoxyethanol (MDBGN/PE-Euxyl K 400),0.1,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP99,methyldibromo glutaronitrile/phenoxyethanol (MDBGN/PE-Euxyl K 400),1.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CL435,methylene-bis(methyloxazolidin),1.0,petrolatum,,AP,CL,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+AP123,methylisothiazolinone,0.05,water,IC,AP,,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP124,methylisothiazolinone,0.2,water,AC AU BB NA EU,AP,CG CL,True,True,True,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+AP100,methyl-p-hydroxybenzoate,3.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS996,methylprednisolone aceponate,0.1,ethanol,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MS380,metronidazole,1.0,petrolatum,,AA,,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA88,mixed dialkyl thioureas,1.0,petrolatum,AC AU NA,,,True,True,False,False,False,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,diethylthiourea 0.5% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,dibutylthiourea 0.5%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MC263,molybdenum(V) chloride,0.5,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+CS995,mometasone furoate,0.1,ethanol,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CL436,monoethanolamine,2.0,petrolatum,,,CL HD,,,,,,,,,,,,,,,,,,,,,,,False,False,True,False,False,False,False,True,False,False,False,False,False
+RC294,morpholinyl mercaptobenzothiazole,0.5,petrolatum,,RC,CL,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+PA465,musk ambrette,5.0,petrolatum,,,PA,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False
+DM225,"N,N-dimethyl-p-toluidine",2.0,petrolatum,,PG,DP DT MI,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False,True,False,False,False
+DC335,naphthol AS,1.0,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MS998,naproxen,5.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+RC281,N-cyclohexyl-2-benzothiazyl-sulfenamide,1.0,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+NA51,neomycin sulfate,20.0,petrolatum,AC AU BB EU IC NA JP,AA EM,EL LU,True,True,True,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False
+PF166,neroli oil,5.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF140,neroli oil,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+ST167,nickel sulfate hexahydrate,5.0,petrolatum,AU BB EU,MC,DP DT FW HD MI,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,True,False,False,False
+NA52,nickel sulfate hexahydrate,2.5,petrolatum,AC IC NA JP,MC,EL,True,False,False,False,True,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+MC981,niobium (V)-chloride,0.2,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+ST168,N-isopropyl-N'-phenyl-p-phenylenediamine (IPPD),0.1,petrolatum,BB EU IC,RC,FW,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+MS381,nitrofurazone,1.0,petrolatum,,AA,LU,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+RC282,N-phenyl-ß-naphthylamine,1.0,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+AA421,nystatin,2.0,petrolatum,,AA,,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PF138,oakmoss absolue,1.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+SS982,octocrylene,10.0,petrolatum,,,SS,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True
+EE352,octyl gallate,0.3,petrolatum,,AP,BA CG,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+CL437,octylisothiazolinone,0.025,petrolatum,,AP,CL FW,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+PF141,oil of bergamot,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF142,oil of cinnamon,0.5,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF143,oil of cloves,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF144,oil of eucalyptus,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF146,oil of lemon,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF147,oil of lemongrass,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF170,oil of patchouli,10.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF149,oil of rose,0.5,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PF150,oil of rosemary,0.5,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+ST172,oil of turpentine,10.0,petrolatum,,PF,CG,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+NA80,oleamidopropyl dimethylamine,0.1,ethanol,AC NA,EE,CG HD,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+HD478,o-nitro-p-phenylenediamine,1.0,petrolatum,,DC,HD,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+PF165,orange oil,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+MS999,oxyphenbutazone (2 ml syringe),10.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+MS988,oxyquinoline mix,6.0,petrolatum,BB,AA,,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+,chlorquinaldol 3% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,clioquinol 3%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AA422,oxytetracycline,3.0,petrolatum,,AA EM,,,,,,,,,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+DM226,palladium chloride,1.0,petrolatum,,MC,DP DT MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True,False,False,False
+SS504,p-aminobenzoic acid,10.0,petrolatum,,ST,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,,,,,,,,,,,
+DC336,p-aminodiphenylamine,0.25,petrolatum,,DC,HD,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+DC321,p-aminophenol,1.0,petrolatum,,DC,HD PC,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+MS390,para-aminobenzoic acid,5.0,petrolatum,,,PA SS,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,True
+ST169,paraben mix [A],16.0,petrolatum,BB EU IC,AP,LU,False,False,True,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+,methyl-p-hydroxybenzoate 4% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,propyl-p-hydroxybenzoate 4% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,butyl-p-hydroxybenzoate 4% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,ethyl-p-hydroxybenzoate 4%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NA53,paraben mix [B],12.0,petrolatum,AC AU NA,AP,CG,True,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+,methyl-p-hydroxybenzoate 3% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,propyl-p-hydroxybenzoate 3% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,butyl-p-hydroxybenzoate 3%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,ethyl-p-hydroxybenzoate 3%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AP112,paraben mix [C],15.0,petrolatum,JP,AP,,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+,methyl p-hydroxybenzoate 3% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,propyl p-hydroxybenzoate 3% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,buthyl p-hydroxybenzoate 3% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,benzyl p-hydroxybenzoate 3% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,ethyl p-hydroxybenzoate 3%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS382,paracetamol,10.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+ST173,parthenolide,0.1,petrolatum,AC NA,NP,,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,,,,,,,,,,,
+FA191,patent blue-VF,0.25,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+FA192,pectin,1.0,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PG327,pentaerythritoltriacrylat (PETA),0.1,petrolatum,,PG,DT,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+EE353,petrolatum,100.0,petrolatum,JP,EE,,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MS993,phenacetine,10.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+MS395,phenazone,5.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+PG306,phenol-formaldehyde-resin,5.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+DC337,phenolphthalein,0.5,petrolatum,,ST,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,,,,,,,,,,,
+CL438,phenoxyethanol,1.0,petrolatum,AC,AP,CG CL,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+PG328,phenyl glycidyl ether,0.25,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+PF151,phenyl salicylate,1.0,petrolatum,,PF,CG,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+PA466,phenylbenzimidazole-5-sulfonic acid,10.0,petrolatum,,,PA SS,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,True
+MS383,phenylbutazone,10.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+EM410,phenylephrine hydrochloride,10.0,water,,EM,,,,,,,,,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PG307,phenylisocyanate,0.1,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+AP101,phenylmercuric acetate,0.05,petrolatum,,AP,CG LU,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False
+AP102,phenylmercuric nitrate,0.01,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EM411,pilocarpine hydrochloride,1.0,water,,EM,,,,,,,,,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EM404,pindolol,2.0,petrolatum,,EM,,,,,,,,,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NH450,pine tar,3.0,petrolatum,,NP,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,,,,,,,,,,,
+MS396,piperazine,1.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+MS992,piroxicam,1.0,petrolatum,,MS,PA,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+MC997,platine chloride (platinum tetrachloride),1.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+LA522,polidocanol,3.0,petrolatum,,LA,,,,,,,,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EE354,polyethylene glycol ointment,100.0,,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EE355,polyethylene glycol-400,100.0,,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EM405,polymyxin B sulfate,3.0,petrolatum,,AA EM,LU,,,,,,,,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+ST170,potassium dichromate,0.5,petrolatum,AU BB EU IC JP,MC,DP DT FW MI,False,True,True,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False,True,False,False,False
+NA54,potassium dichromate,0.25,petrolatum,AC NA,MC,,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+DM227,potassium dicyanoaurate,0.002,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+MC251,potassiumchromate(III) sulfate,2.0,water,,MC,PC,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+AP103,povidone iodine,10.0,water,,AP,LU,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+CS993,prednicarbate,1.0,ethanol,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS503,prednisolone,1.0,petrolatum,,CSEM,,,,,,,,,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NH451,primin,0.01,petrolatum,EU JP,NP,,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,,,,,,,,,,,
+LA526,procaine-HCl,1.0,petrolatum,,LA,,,,,,,,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+LA523,procaine-HCl,2.0,petrolatum,,LA,,,,,,,,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PA467,promethazine-HCl,2.0,petrolatum,,MS,PA,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+EM406,propanolol-HCl,2.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+NA71,propolis,10.0,petrolatum,AC NA,NP,LU,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+AP104,propyl gallate,0.5,petrolatum,,AP,BA CG,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+EE356,propylene glycol,20.0,water,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CL441,propylene glycol,5.0,petrolatum,AU,EE,,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA96,propylene glycol,100.0,,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA55,propylene glycol,30.0,water,AC NA,EE,CG CL EL LU,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False,False,False
+AP105,propyl-p-hydroxybenzoate,3.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MS385,propyphenazone,1.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+PG308,p-tert-butylphenol,1.0,petrolatum,,PG,CL,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+HD483,p-toluenediamine,1.0,petrolatum,,DC,HD,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+HD479,p-toluenediamine sulfate,1.0,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+HD480,pyrogallol,1.0,petrolatum,,,HD PC,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,True,False,False,False,True,False
+NA56,quaternium 15,2.0,petrolatum,AC IC NA,AP,CG EL,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+AP106,quaternium 15,1.0,petrolatum,AU BB EU,AP,HD,False,True,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+PA468,quinidine sulfate,1.0,petrolatum,,MS,PA,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+FA193,quinoline yellow,0.1,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+HD481,resorcinol,1.0,petrolatum,,ST,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,,,,,,,,,,,
+HD484,resorcinol,2.0,petrolatum,,,HD,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,True,False,False,False,False,False
+PG309,resorcinol-formaldehyde-resin,5.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+MC998,rhodium chloride,2.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+MC252,ruthenium,0.1,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+FA194,saccharin,0.1,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+PF152,salicylaldehyde,2.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+PG329,salicylamide,2.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+MS387,salicylic acid,5.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+MC993,samarium(III) chloride,1.5,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+PF168,sandalwood oil,10.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+NA57,sesquiterpenelactone mix,0.1,petrolatum,AC AU BB EU IC NA JP,NP,,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,,,,,,,,,,,
+,alantolactone 0.033% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,costunolide 0.033% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,dehydrocostuslactone 0.033%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NA78,shellac (supplied in a tube),20.0,ethanol,,NP,CG EL,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+MC253,silver colloidal,0.1,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+MC266,silver nitrate,1.0,water,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+FA195,sodium alginate,1.0,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP107,sodium benzoate,5.0,petrolatum,,AP,BA CG,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+AP122,sodium benzoate,2.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+FA196,sodium diphosphate,1.0,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EM408,sodium disulfite,1.0,petrolatum,BB,AP EM,BA CG PC,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False
+FA198,sodium formiate,2.0,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+FA199,sodium glutamate,1.0,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EE370,sodium lauryl sulfate,0.5,petrolatum,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EE372,sodium lauryl sulfate,0.25,water,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+FA200,sodium nitrite,2.0,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CL439,sodium-2-pyridinethiol-1-oxide (sodium-omadine),0.1,water,,AP,CG CL,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+AP108,sorbic acid,2.0,petrolatum,AC,AP,BA CG LU,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,True,False,False,False,False
+FA202,sorbic acid,2.0,ethanol,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EE369,sorbitan monooleate (span™ 80),5.0,petrolatum,,EE,CG LU,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False
+EE357,sorbitan sesquioleate,20.0,petrolatum,AC,EE,CG LU,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False
+EE365,stearyl alcohol,30.0,petrolatum,,EE,CG,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+AA423,streptomycin sulfate,5.0,petrolatum,,AA,,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AA424,sulfanilamide,5.0,petrolatum,,AA,PA,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+MS389,"sulphur, precipitated",10.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+MC255,tantal,1.0,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+FA204,tartrazine,1.0,water,,FA,,,,,,,,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA58,"tea tree oil, oxidized",5.0,petrolatum,AC AU NA,NP,CG,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+SS505,tert.-butyl methoxydibenzoyl methane,10.0,petrolatum,,,PA SS,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,True
+EE358,tert-butylhydroquinone,1.0,petrolatum,,AP,CG,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+DM229,tetracaine-HCl,1.0,petrolatum,,EM LA,,,,,,,,,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AA425,tetracycline-HCl,2.0,petrolatum,,AA,,,,,,,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+RC283,tetraethylthiuram disulfide,0.25,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+PG330,tetrahydrofurfuryl methacrylate,2.0,petrolatum,,PG,DP DT,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+RC285,tetramethyl thiuram monosulfide (TMTM),0.25,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+RC284,tetramethylthiuram disulfide,0.25,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+DC342,textile dye mix,6.6,petrolatum,,DC,,,,,,,,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+MS397,thiamin nitrate,10.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+EM409,thimerosal,0.1,petrolatum,JP,AP EM,CG CL EL LU,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False,False,False
+AP109,thimerosal,1.0,petrolatum,,AP,,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+RC286,thiourea,0.1,petrolatum,,RC,PA,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+NA60,thiuram mix [A],1.0,petrolatum,AC AU BB EU IC NA,RC,EL FW,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False,False,False
+,tetrametyhl thiuram monosulfide 0.25%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,tetramethyl thiuram disulfide 0.25% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,tetraethyl thiuram disulfide 0.25% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,dipentamethylene thiuram disulfide 0.25%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RC289,thiuram mix [B],1.25,petrolatum,JP,RC,,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+,tetramethyl thiuram disulfide 0.25% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,tetraethyl thiuram disulfide 0.25% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,tetramethyl thiuram monosulfide 0.25% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,dipentamethylene thiuram tetrasulfide 0.25% ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,tetra-n-buthyl thiuram disulfide 0.25%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AP120,thymol,1.0,petrolatum,,MS,,,,,,,,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,,,,,,,,,,,
+DM230,tin(II) chloride,0.5,petrolatum,,MC,MI PC,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False
+NA221,tinosorb (methylene-bis-benzotriazolyl tetramethylbutylphenol),10.0,petrolatum,,,SS,,,,,,,,,,,,,,,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True
+MC260,titanium,1.0,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+MC256,titanium(IV) oxide,0.1,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+CS498,tixocortol-21-pivalate,0.1,petrolatum,EU IC,CS,,False,False,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+NA61,tixocortol-21-pivalate,1.0,petrolatum,AC AU BB NA,CS,LU,True,True,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+NH452,tolu balsam,20.0,petrolatum,,NP,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,,,,,,,,,,,
+PG310,"toluene 2,4-diisocyanate",1.0,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+NA62,tosylamide formaldehyde resin,10.0,petrolatum,AC AU IC NA,PG,CG EL FW,True,True,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False
+PF171,Tree Moss,1.0,petrolatum,,PF,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,,,,,,,,,,,
+CS499,triamcinolone acetonide,1.0,petrolatum,AC AU,CS,,True,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+CS505,triamcinolone acetonide,0.1,petrolatum,,CS,,,,,,,,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+AP110,triclosan,2.0,petrolatum,AC,AP,CG CL PA,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False
+PG312,tricresyl phosphate,5.0,petrolatum,,PG,PC,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+EE359,triethanolamine,2.5,petrolatum,,EE,CG CL LU PC,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False
+DM231,triethyleneglycol dimethacrylate (TEGDMA),2.0,petrolatum,,PG,DP DT,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+PG313,triethylenetetramine,0.5,petrolatum,,PG,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,,,,,,,,,,,
+PG314,triphenyl phosphate,5.0,petrolatum,,PG,PC,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+MC238,"tungstic acid, sodium salt dihydrate",2.0,water,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+NH453,turpentine peroxide,0.3,petrolatum,,NP,,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,,,,,,,,,,,
+EE360,tween 40,10.0,petrolatum,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EE361,tween 80,10.0,petrolatum,,EE,CG,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+PG325,urea formaldehyde resin,10.0,petrolatum,,PG,FW,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+DM223,urethane dimethacrylate,2.0,petrolatum,,PG,DP DT,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+NH454,usnic acid,0.1,petrolatum,,NP,PA,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+MC267,vanadium pentoxide,10.0,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+PF153,vanillin,10.0,petrolatum,,PF,BA,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+MC996,wolfram,5.0,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+NH455,wood tar mix,12.0,petrolatum,,NP,LU,,,,,,,,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+,birch tar3%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,juniper wood oil 3%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,beech tar 3%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,canadian balsam 3%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EE362,wool alcohols ointment,100.0,,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+EE363,wool fat,30.0,petrolatum,,EE,,,,,,,,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,,,,,,,,,,
+RC268,zinc bis(dibutyldithiocarbamate),1.0,petrolatum,,RC,,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,,,,,,,,,,
+ST162,zinc bis(diethyldithiocarbamate),1.0,petrolatum,,RC,CL,,,,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+MC257,zinc chloride,1.0,petrolatum,,MC,MI PC,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False
+MC258,zinc powder,1.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+AP111,zinc pyrithione,0.1,petrolatum,,AP,HD,,,,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+MC268,zinc sulfate,1.0,petrolatum,,MC,,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,,,,,,,,,,,
+MC259,zirconium (IV) oxide,0.1,petrolatum,,MC,MI,,,,,,,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False

@@ -1,0 +1,89 @@
+#: import main main
+#: import ListAdapter kivy.adapters.listadapter.ListAdapter
+
+
+DermRoot:
+
+<DermRoot>:
+    DemographForm:
+        # the arguments to the handler are available
+        # as `args` - the last argument will be our
+        # data, so we can grab it via `args[-1]`
+        on_save: root.add_entry_to_db(args[-1])
+
+<DemographForm>:
+    orientation: "vertical"
+      
+    GridLayout:
+        age_input: age_input
+        sex: sex
+
+        cols: 2
+        Label:
+            text: "Patient's Age:"
+        TextInput:
+            id: age_input
+            text: root.data['age'] if 'age' in root.data else ''
+            on_text: root.data['age'] = self.text
+            multiline: False
+        Label:
+            text: "Sex:"
+        ToggleButton:
+            id: sex 
+            state: root.data['sex'] if 'sex' in root.data else 'normal'
+            text: "Male" if self.state == 'normal' else "Female"
+            on_press: root.data['sex'] = self.state
+        Label:
+            text: "Standard Series to Include?"
+        GridLayout:
+            cols: 2
+            CheckBox:
+                id: AC
+                active: root.data['AC'] if 'AC' in root.data else False
+                on_active: root.data['AC'] = self.active  
+            Label:
+                text: "AC"
+            CheckBox:
+                id: AU
+                active: root.data['AU'] if 'AU' in root.data else False
+                on_active: root.data['AU'] = self.active  
+            Label:
+                text: "AU"
+            CheckBox:
+                id: BB
+                active: root.data['BB'] if 'BB' in root.data else False
+                on_active: root.data['BB'] = self.active  
+            Label:
+                text: "BB"
+            CheckBox:
+                id: EU
+                active: root.data['EU'] if 'EU' in root.data else False
+                on_active: root.data['EU'] = self.active  
+            Label:
+                text: "EU"
+            CheckBox:
+                id: JP
+                active: root.data['JP'] if 'JP' in root.data else False
+                on_active: root.data['JP'] = self.active  
+            Label:
+                text: "JP"
+            CheckBox:
+                id: IC
+                active: root.data['IC'] if 'IC' in root.data else False
+                on_active: root.data['IC'] = self.active  
+            Label:
+                text: "IC" 
+            CheckBox:
+                id: NA
+                active: root.data['NA'] if 'NA' in root.data else False
+                on_active: root.data['NA'] = self.active  
+            Label:
+                text: "NA"
+
+    Button:
+        height: "40dp"
+        size_hint_y: None
+        text: "Add Entry to Database"
+        # dispatch our new `on_save` event
+        on_press: print(root.data)
+        #on_press: root.dispatch('on_save', root.data)

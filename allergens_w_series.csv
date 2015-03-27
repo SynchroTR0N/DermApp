@@ -1,0 +1,514 @@
+id|allergen|concentration|medium|ac|ac_s|au|bb|eu|ic|jp|na|na_s
+AP119|(nitrobutyl)morpholine / (ethylnitrotrimethylene)dimorpholineÿ(Bioban?ÿP 1487)|1|petrolatum|0|0|0|0|0|0|0|0|0
+MS398|1,2-benzisothiazoline-3-one, sodium salt|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+CL430|1,3,5-tris(2-hydroxyethyl)-hexahydrotriazineÿ(Grotan BK)|1|petrolatum|0|0|0|0|0|0|0|0|0
+DM211|1,3-butandiol-dimethacrylate|2|petrolatum|0|0|0|0|0|0|0|0|0
+RC265|1,3-diphenylguanidineÿ(DPG)|1|petrolatum|1|1|0|0|0|0|0|1|1
+PG319|1,4-butandioldimethacrylatÿ(BUDMA)|2|petrolatum|0|0|0|0|0|0|0|0|0
+PG320|1,4-butanedioldiglycidyl ether|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+PG321|1,6-hexanediol diglycidyl ether|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+CL440|2-(2-aminoethoxy)ethanolÿ(diglycolamine)|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA03|2-bromo-2-nitropropane-1,3-diolÿ(bronopol?)|0.5|petrolatum|1|0|1|1|0|0|0|1|0
+PG295|2-ethylhexyl acrylate|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+SS500|2-ethylhexyl p-(dimethylamino)benzoate|10|petrolatum|0|0|0|0|0|0|0|0|0
+SS501|2-ethylhexyl-4-methoxycinnamateÿ(octinoxate)|10|petrolatum|1|1|1|0|0|0|0|0|0
+NA85|2-hydroxy-4-methoxybenzophenoneÿ(oxybenzone)|10|petrolatum|1|1|1|0|0|0|0|1|1
+NA72|2-hydroxyethyl methacrylateÿ(HEMA)|2|petrolatum|1|1|1|0|0|0|0|1|1
+DM210|2-hydroxyethyl methacrylateÿ(HEMA)|1|petrolatum|0|0|0|0|0|0|0|0|0
+DM212|2-hydroxy-ethylacrylate|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+AP75|2-hydroxymethyl-2-nitro-1,3-propanediol|1|petrolatum|0|0|0|0|0|0|0|0|0
+DM213|2-hydroxypropyl-methacrylate|2|petrolatum|0|0|0|0|0|0|0|0|0
+RC266|2-mercaptobenzimidazole|1|petrolatum|0|0|0|0|0|0|0|0|0
+ST160|2-mercaptobenzothiazole|2|petrolatum|0|0|1|1|1|1|0|0|0
+NA05|2-mercaptobenzothiazole|1|petrolatum|1|0|0|0|0|0|0|1|0
+PA460|3,4,4'-triclocarban|1|petrolatum|0|0|0|0|0|0|0|0|0
+SS503|3,4-methyl benzylidene camphor|10|petrolatum|0|0|0|0|0|0|0|0|0
+HD475|3-aminophenol|1|petrolatum|0|0|0|0|0|0|0|0|0
+PG296|4,4'-diaminodiphenylmethane|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+RC267|4,4'-dihydroxybiphenyl|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+CL433|4,4-dimethyl-1,3-oxazolidine/3,4,4-trimethyl-1,3-oxazolidineÿ(Bioban CS 1135)|1|petrolatum|0|0|0|0|0|0|0|0|0
+DC320|4-aminoazobenzene|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA06|4-chloro-3,5-xylenolÿ(PCMX)|1|petrolatum|1|1|1|1|0|0|0|1|1
+EE367|4-chloro-3-cresolÿ(PCMC)|1|petrolatum|1|1|1|1|0|0|0|0|0
+AP76|4-hexyl-resorcinol|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+NA07|4-phenylenediamine base|1|petrolatum|1|0|1|1|1|1|1|1|0
+PG297|4-tert-butylcatechol|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA08|4-tert-butylphenol formaldehyde resin|1|petrolatum|1|0|1|1|1|1|1|1|0
+CL434|7-ethylbicyclooxazolidineÿ(Bioban CS 1246)|1|petrolatum|0|0|0|0|0|0|0|0|0
+PG298|abietic acid|10|petrolatum|0|0|0|0|0|0|0|0|0
+EE364|abitol|10|petrolatum|0|0|0|0|0|0|0|0|0
+MS370|acetylsalicylic acid|10|petrolatum|0|0|0|0|0|0|0|0|0
+NH445|alpha pinene|15|petrolatum|0|0|0|0|0|0|0|0|0
+PF125|alpha-amylcinnamic aldeyhde|1|petrolatum|0|0|0|0|0|0|0|0|0
+PF164|alpha-hexylcinnamic aldehyde|10|petrolatum|0|0|0|0|0|0|0|0|0
+MC262|aluminum hydroxide|10|petrolatum|0|0|0|0|0|0|0|0|0
+DM232|amalgamÿ(Hg 2.5%, Ag 1.7%, Cu 0.3%, Sn 0.4%, Zn 0.025%)|5|petrolatum|0|0|0|0|0|0|0|0|0
+DM233|amalgam alloying metalsÿ(Ag 13.9%, Cu 2.4%, Sn 3.5%, Zn 0.2%)|20|petrolatum|0|0|0|0|0|0|0|0|0
+FA180|amaranth|0.1|water|0|0|0|0|0|0|0|0|0
+CS490|amcinonide|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+NA89|amerchol L101|50|petrolatum|1|1|1|1|0|0|0|1|1
+NA10|amidoamineÿ(stearamidopropyl dimethylamine)|0.1|water|1|1|0|0|0|0|0|1|1
+MS994|aminophenazone|10|petrolatum|0|0|0|0|0|0|0|0|0
+DM216|ammoniated mercury|1|petrolatum|0|0|0|0|0|0|0|0|0
+MC239|ammonium heptamolybdate|2|water|0|0|0|0|0|0|0|0|0
+MC240|ammonium heptamolybdate|1|water|0|0|0|0|0|0|0|0|0
+HD476|ammonium persulfate|2.5|petrolatum|0|0|0|0|0|0|0|1|1
+DM217|ammonium tetrachloroplatinate|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+HD482|ammonium thioglycolate|1|water|0|0|0|0|0|0|0|0|0
+AA414|ampicillin|5|petrolatum|0|0|0|0|0|0|0|0|0
+PF157|amylcinnamic alcohol|1|petrolatum|0|0|0|0|0|0|0|0|0
+DC322|aniline|1|petrolatum|0|0|0|0|0|0|0|0|0
+PF158|anisyl alcohol|1|petrolatum|0|0|0|0|0|0|0|0|0
+MC986|antimony chloride|1|petrolatum|0|0|0|0|0|0|0|0|0
+FA181|aspartame|0.1|water|0|0|0|0|0|0|0|0|0
+NH456|atranorin|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+EM396|atropine sulfate|1|water|0|0|0|0|0|0|0|0|0
+FA182|azorubine|0.1|ethanol|0|0|0|0|0|0|0|0|0
+NA11|bacitracin|20|petrolatum|1|0|0|0|0|0|0|1|0
+NA12|balsam of peruÿ(myroxylon pereirae resin)|25|petrolatum|1|0|1|1|1|1|1|1|0
+DC341|basic red 46|1|petrolatum|0|0|1|0|0|0|0|0|0
+PF996|bay leaf oil|2|petrolatum|0|0|0|0|0|0|0|0|0
+PF126|benzaldehyde|5|petrolatum|0|0|0|0|0|0|0|0|0
+AP77|benzalkonium chloride|0.1|petrolatum|1|1|1|0|0|0|0|0|0
+CL431|benzisothiazolinone|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+NA13|benzocaine|5|petrolatum|1|1|1|0|1|0|0|1|1
+FA183|benzoic acid|1|ethanol|0|0|0|0|0|0|0|0|0
+AP78|benzoic acid|5|petrolatum|0|0|0|0|0|0|0|0|0
+SS509|benzophenone-4|2|petrolatum|1|1|1|0|0|0|0|0|0
+SS506|benzophenone-4ÿ(sulisobenzone)|10|petrolatum|0|0|0|0|0|0|0|1|1
+AP79|benzotriazole|1|petrolatum|0|0|0|0|0|0|0|0|0
+DM218|benzoyl peroxide|1|petrolatum|0|0|0|0|0|0|0|0|0
+AP118|benzyl alcohol|5|petrolatum|1|1|1|0|0|0|0|0|0
+NA67|benzyl alcohol|1|petrolatum|0|0|0|0|0|0|0|0|0
+PF127|benzyl cinnamate|5|petrolatum|0|0|0|0|0|0|0|0|0
+PF128|benzyl salicylate|1|petrolatum|0|0|0|0|0|0|0|0|0
+PF159|benzylbenzoate|1|petrolatum|0|0|0|0|0|0|0|0|0
+CL432|benzylhemiformal|1|petrolatum|0|0|0|0|0|0|0|0|0
+AP121|benzyl-p-hydroxybenzoate|3|petrolatum|0|0|0|0|0|0|0|0|0
+MC990|beryllium(II) chloride|1|petrolatum|0|0|0|0|0|0|0|0|0
+CS500|betamethason-17,21 dipropionate|0.5|petrolatum|0|0|1|0|0|0|0|0|0
+CS997|betamethasone-17,21-dipropionate|0.1|ethanol|0|0|0|0|0|0|0|0|0
+CS506|betamethasone-17-valerate|1|petrolatum|0|0|1|0|0|0|0|0|0
+CS999|betamethasone-17-valerate|0.1|ethanol|0|0|0|0|0|0|0|0|0
+CS491|betamethasone-17-valerate|0.12|petrolatum|0|0|0|0|0|0|0|0|0
+PG299|bis(2-ethylhexyl) phthalate|5|petrolatum|0|0|0|0|0|0|0|0|0
+RC292|bis(dibenzyldithiocarbamato)zinc|1|petrolatum|0|0|0|0|0|0|0|0|0
+DM219|BIS-GMAÿ(bisphenol A-glycidyl methacrylate)|2|petrolatum|0|0|0|0|0|0|0|0|0
+DC339|bismark brown R|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+DM220|bisphenol A|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA33|bisphenol A epoxy resin|1|petrolatum|1|0|1|1|1|1|1|1|0
+PG315|bisphenol F|1|petrolatum|0|0|0|0|0|0|0|0|0
+DM221|bisphenol-A-dimethacrylate|2|petrolatum|0|0|0|0|0|0|0|0|0
+PA462|bithionol|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA15|black rubber mix - PPD [B] (N-dimethyl-1, C-butyl-N-phenyl-p-phenylenediamine (DMBPPD) 0.25%ÿ$$diphenyl-p-phenylenediamine (DPPD) 0.25%ÿ$$ N-isopropyl-N-phenyl-p-phenylenediamine (IPPD) 0.1%)|0.6|petrolatum|1|0|1|0|0|0|1|1|0
+FA184|brilliant black|0.1|water|0|0|0|0|0|0|0|0|0
+NA16|budesonide|0.1|petrolatum|1|0|1|1|0|0|0|1|0
+CS497|budesonide|0.01|petrolatum|0|0|0|0|1|1|0|0|0
+ST163|bufexamac|5|petrolatum|0|0|1|0|0|0|0|0|0
+PG322|butyl glycidyl ether|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+PG300|butylacrylate|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+FA185|butylhydroxyanisoleÿ(BHA)|2|ethanol|0|0|0|0|0|0|0|0|0
+EE346|butylhydroxyanisoleÿ(BHA)|2|petrolatum|0|0|0|0|0|0|0|0|0
+EE347|butylhydroxytolueneÿ(BHT)|2|petrolatum|1|1|0|0|0|0|0|0|0
+FA186|butylhydroxytolueneÿ(BHT)|1|ethanol|0|0|0|0|0|0|0|0|0
+AP81|butyl-p-hydroxybenzoate|3|petrolatum|0|0|0|0|0|0|0|0|0
+MC241|cadmium chloride|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+MC976|cadmium sulfate|2|petrolatum|0|0|0|0|0|0|0|0|0
+LA525|caine mix [A] (benzocaine 5% $$ cinchocaine-HCl 1%ÿ$$ tetracaine-HCl 1%)|7|petrolatum|0|0|0|1|0|0|0|0|0
+LA524|caine mix [C] (benzocaine 5%ÿ$$ cinchocaine-HCl 1%ÿ$$ procaine-HCl 1%)|7|petrolatum|0|0|0|0|0|0|1|0|0
+MS371|camphor|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA65|cananga odorataÿ(ylang ylang)|2|petrolatum|1|1|0|0|0|0|0|1|1
+NA18|carba mix (1,3 diphenylguanidine 1%ÿ$$ zinc bis(diethyldithiocarbamate) 1% $$ zinc bis(dibutyldithiocarbamate) 1%)|3|petrolatum|1|0|1|1|0|1|0|1|0
+EM999|carboxymethyl cellulose sodium|2|petrolatum|0|0|0|0|0|0|0|0|0
+FA187|carmine|0.5|water|0|0|0|0|0|0|0|0|0
+NA91|carmine|2.5|petrolatum|0|0|0|0|0|0|0|0|0
+NA73|carvone|5|petrolatum|0|0|0|0|0|0|0|1|1
+PF139|cedar oil|10|petrolatum|0|0|0|0|0|0|0|0|0
+AP82|cetalkonium chloride|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+AP83|cetylpyridinium chloride|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+ST164|cetylstearylalcohol|20|petrolatum|1|1|1|1|0|0|0|0|0
+MS391|chloramphenicol|5|petrolatum|0|0|0|0|0|0|0|0|0
+AP84|chlorhexidine digluconate|0.5|water|1|1|0|0|0|0|0|0|0
+AP126|chlorhexidine digluconate|1|water|0|0|0|0|0|0|0|1|1
+AP85|chloroacetamide|0.2|petrolatum|0|0|1|0|0|0|0|0|0
+AA415|chlorotetracycline-HCl|1|petrolatum|0|0|0|0|0|0|0|0|0
+EM398|chlorphenamine maleate|5|petrolatum|0|0|0|0|0|0|0|0|0
+PA463|chlorpromazine-HCl|1|petrolatum|0|0|0|0|0|0|0|0|0
+MS372|chlorquinaldol|5|petrolatum|0|0|0|0|0|0|0|0|0
+MC243|chromium(III) chloride|1|petrolatum|0|0|0|0|0|0|0|0|0
+MC242|chromium(III) sulfate hydrate|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+LA520|cinchocaine-HCl|5|petrolatum|0|0|0|0|0|0|0|0|0
+NA26|cinchocaine-HCl|2.5|petrolatum|1|1|0|0|0|0|0|0|0
+PF129|cinnamic alcohol|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA19|cinnamic aldehyde|1|petrolatum|1|1|0|0|0|0|0|1|1
+PF160|citral|2|petrolatum|0|0|0|0|0|0|0|0|0
+PF130|citronellal|2|petrolatum|0|0|0|0|0|0|0|0|0
+PF161|citronellol|1|petrolatum|0|0|0|0|0|0|0|0|0
+AP86|clioquinol|5|petrolatum|0|0|0|0|1|0|0|0|0
+CS998|clobetasol-17-propionate|0.1|ethanol|0|0|0|0|0|0|0|0|0
+CS492|clobetasol-17-propionate|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+NA20|clobetasol-17-propionate|1|petrolatum|1|1|0|0|0|0|0|1|1
+AA426|clotrimazole|1|petrolatum|0|0|0|0|0|0|0|0|0
+NH448|coal tar|5|petrolatum|0|0|0|0|0|0|0|0|0
+NA21|cobalt (II) chloride hexahydrate|1|petrolatum|1|0|1|1|1|1|1|1|0
+MC244|cobalt (II) sulfate|2.5|petrolatum|0|0|0|0|0|0|0|0|0
+NA22|cocamidopropyl betaine|1|water|1|1|1|0|0|0|0|1|1
+FA188|cochineal red|1|water|0|0|0|0|0|0|0|0|0
+NA23|coconut diethanolamideÿ(cocamide DEA)|0.5|petrolatum|1|1|1|0|0|0|0|1|1
+EE349|cold cream|100|petrolatum|0|0|0|0|0|0|0|0|0
+NA24|colophony|20|petrolatum|1|0|1|1|1|1|1|1|0
+NA25|compositae mix (tanacetum vulgare 1%ÿ$$ arnica montana 0.5%ÿ$$ parthenolide 1%ÿ$$ chamomilla romana 2.5%$$ achillea millefolium 1%)|6|petrolatum|1|1|1|1|0|1|0|1|1
+MC245|copper sulfate pentahydrate|2|petrolatum|0|0|0|0|0|0|0|0|0
+DM222|copper sulfate pentahydrate|1|water|0|0|0|0|0|0|0|0|0
+CS507|corticosteroide mix (hydrocortisone 21-acetate 1% $$ hydrocortisone 17-butyrate 1%ÿ $$ budesonide 0.01% )|2.01|petrolatum|0|0|0|0|0|0|0|0|0
+PF162|coumarin|5|petrolatum|0|0|0|0|0|0|0|0|0
+PG305|cresyl glycidyl ether|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+MS393|cyanocobalamin|10|petrolatum|0|0|0|0|0|0|0|0|0
+RC293|cyclohexylthiophthalimide|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+NA74|decyl glucoside|5|petrolatum|1|1|0|0|0|0|0|1|1
+NA68|desoximethasone|1|petrolatum|0|0|0|0|0|0|0|1|1
+CS493|dexamethasone|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+CS502|dexamethasone-21-phospate|1|petrolatum|0|0|0|0|0|0|0|0|0
+MS373|dexpanthenol|5|petrolatum|0|0|0|0|0|0|0|0|0
+NH999|diallyl disulfide|1|petrolatum|0|0|0|0|0|0|0|0|0
+AP87|diazolidinyl urea|2|petrolatum|0|0|1|1|0|1|0|0|0
+NA01|diazolidinyl ureaÿ(Germall? II)|1|petrolatum|1|0|0|0|0|0|0|1|0
+RC270|dibenzothiazyl disulfideÿ(MBTS)|1|petrolatum|0|0|0|0|0|0|0|0|0
+RC271|dibutylphthalate|5|petrolatum|0|0|0|0|0|0|0|0|0
+RC272|dibutylthiourea|1|petrolatum|0|0|0|0|0|0|0|0|0
+AP89|dichlorophene|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+MS374|diclofenac|5|petrolatum|0|0|0|0|0|0|0|0|0
+MS394|diclofenac|2.5|petrolatum|0|0|0|0|0|0|0|0|0
+EE350|diethanolamine|2|petrolatum|0|0|0|0|0|0|0|0|0
+PG323|diethylenetriamine|1|petrolatum|0|0|0|0|0|0|0|0|0
+PG301|diethylphthalate|5|petrolatum|0|0|0|0|0|0|0|0|0
+RC999|diethylthiourea|1|petrolatum|0|0|0|0|0|0|0|0|0
+EE366|dimethylaminopropylamine|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA75|dimethylaminopropylamineÿ(DMAPA)|1|water|1|1|0|0|0|0|0|1|1
+NA27|dimethylol dihydroxyethyleneurea|4.5|water|0|0|0|0|0|0|0|0|0
+PG302|dimethylphthalate|5|petrolatum|0|0|0|0|0|0|0|0|0
+RC276|dipentamethylenethiuram disulfide|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+RC273|dipentamethylenethiuram tetrasulfide|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+PG303|diphenylmethane-4,4'-diisocyanate|1|petrolatum|0|0|0|0|0|0|0|0|0
+RC274|diphenyl-p-phenylenediamine|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+RC275|diphenylthiourea|1|petrolatum|0|0|0|0|0|0|0|0|0
+EM399|disodium edetate|1|petrolatum|0|0|0|0|0|0|0|0|0
+DC340|disperse blue 106|0.2|petrolatum|0|0|0|0|0|0|0|0|0
+DC998|disperse blue 124|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA83|disperse blue mix (124/106)(disperse blue 124 0.5%ÿ$$ disperse blue 106 0.5%)|1|petrolatum|1|1|1|1|0|0|0|1|1
+DC324|disperse blue-3|1|petrolatum|0|0|0|0|0|0|0|0|0
+DC325|disperse orange-3|1|petrolatum|1|1|0|0|0|0|0|0|0
+DC326|disperse red-1|1|petrolatum|0|0|0|0|0|0|0|0|0
+DC327|disperse red-11|1|petrolatum|0|0|0|0|0|0|0|0|0
+DC328|disperse red-17|1|petrolatum|0|0|0|0|0|0|0|0|0
+DC329|disperse yellow-3|1|petrolatum|0|0|0|0|0|0|0|0|0
+DC330|disperse yellow-9|1|petrolatum|0|0|0|0|0|0|0|0|0
+RC290|dithiocarbamate mix (dimethyldithiocarbamic acid zinc salt 0.5%ÿ$$ diethyldithiocarbamic acid zinc salt 0.5%ÿ$$ di-N-butyldithiocarbamic acid zinc salt 0.5% $$ N-ethyl-N-phenyldithiocarbamic acid zinc salt 0.5%)|2|petrolatum|0|0|0|0|0|0|1|0|0
+NA87|dl alpha tocopherol|100||1|1|0|0|0|0|0|1|1
+NA79|d-limonene|3|petrolatum|0|0|0|0|0|0|0|0|0
+PF132|d-limonene|2|petrolatum|0|0|0|0|0|0|0|0|0
+NA92|dl-limonene (dipentene)|2|petrolatum|0|0|1|0|0|0|0|0|0
+NA31|DMDM hydantoin|1|petrolatum|1|1|0|0|0|0|0|1|1
+AP90|DMDM hydantoin|2|water|0|0|1|0|0|0|0|0|0
+AP91|dodecyl gallate|0.3|petrolatum|0|0|0|0|0|0|0|0|0
+RC277|dodecyl mercaptan|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+AA427|erythromycin|2|petrolatum|0|0|0|0|0|0|0|0|0
+AA417|erythromycin|1|petrolatum|0|0|0|0|0|0|0|0|0
+DC332|erythrosin-B|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+FA189|erythrosin-B|0.25|ethanol|0|0|0|0|0|0|0|0|0
+NA34|ethyl acrylate|0.1|petrolatum|1|1|0|0|0|0|0|1|1
+NA90|ethyl cyanoacrylate|2.5|petrolatum|1|1|0|0|0|0|0|0|0
+NA101|ethyl hexyl glycerol|5|petrolatum|0|0|0|0|0|0|0|1|1
+NA35|ethylenediamine dihydrochloride|1|petrolatum|1|0|0|1|0|0|0|1|0
+DM224|ethyleneglycol dimethacrylateÿ(EGDMA)|2|petrolatum|0|0|0|0|0|0|0|0|0
+PG316|ethyleneurea, melamine formaldehyde mix (ethyleneurea 2.5%ÿ$$ melamine formaldehyde resin 2.5%)|5|petrolatum|1|1|0|0|0|0|0|0|0
+PG324|ethylmethacrylate|2|petrolatum|0|0|0|0|0|0|0|0|0
+AP92|ethyl-p-hydroxybenzoate|3|petrolatum|0|0|0|0|0|0|0|0|0
+PF133|eugenol|1|petrolatum|0|0|0|0|0|0|0|0|0
+PF163|farnesol|5|petrolatum|0|0|0|0|0|0|0|0|0
+MC264|ferric chloride|2|water|0|0|0|0|0|0|0|0|0
+MC247|ferrous sulfate|5|petrolatum|0|0|0|0|0|0|0|0|0
+NA94|formaldehyde|2|water|0|0|0|1|1|1|0|1|0
+NA37|formaldehyde|1|water|1|0|1|0|0|0|1|1|0
+FA190|formic acid|1|water|0|0|0|0|0|0|0|0|0
+PF155|fragrance mix [A] (eugenol 1%ÿ$$ geraniol 1%$$ cinnamic aldehyde 1%ÿ$$ cinnamic alcohol 1%ÿ$$ amylcinnamic aldehyde 1%ÿ$$ hydroxycitronellal 1%$$ isoeugenol 1%$$ sandalwood oil 1%)|8|petrolatum|0|0|0|0|0|0|1|0|0
+PF156|fragrance mix [B] (eugenol 1%ÿ$$ geraniol 1%ÿ$$ cinnamic aldehyde 1%ÿ$$ cinnamic alcohole 1%ÿ$$ alpha-amylcinnamicaldehyde 1%$$ hydroxycitronellal 1%ÿ$$ isoeugenol 1%ÿ$$ oakmoss absolute 1%)|8|petrolatum|0|0|0|0|0|0|0|0|0
+NA70|fragrance mix II (coumarin 2.5% $$ lyral 2.5% $$ citronellol 0.5%ÿ $$ farnesol 2.5% $$ citral 1%ÿ $$ alpha-hexylcinnamic aldehyde 5%)|14|petrolatum|1|1|1|1|1|1|0|1|1
+NA38|fragrance mix (eugenol 1% $$ geraniol 1% $$ cinnamic aldehyde 1% $$ cinnamic alcohol 1% $$ amylcinnamic aldehyde 1% $$ hydroxycitronellal 1% $$ isoeugenol 1% $$ oakmoss absolute 1%)|8|petrolatum|1|0|1|1|1|1|0|1|0
+AA428|framycetin sulfate|10|petrolatum|0|0|0|0|0|0|0|0|0
+AA418|fusidic acid sodium salt|2|petrolatum|0|0|0|1|0|0|0|0|0
+MC248|gallium oxide|1|petrolatum|0|0|0|0|0|0|0|0|0
+PF169|gamma methylionone|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+AA419|gentamicin sulfate|20|petrolatum|0|0|0|0|0|0|0|0|0
+PF134|geraniol|1|petrolatum|0|0|0|0|0|0|0|0|0
+MC992|germanium(IV) chloride|2|petrolatum|0|0|0|0|0|0|0|0|0
+NA39|glutaraldehyde|1|petrolatum|1|1|0|0|0|0|0|0|0
+AP93|glutaraldehyde|0.3|petrolatum|0|0|0|0|0|0|0|0|0
+NA40|glyceryl monothioglycolate ÿ|1|petrolatum|0|0|0|0|0|0|0|0|0
+AP95|glyoxal trimeric dihydrate|1|petrolatum|0|0|0|0|0|0|0|0|0
+DM228|gold sodium thiosulfate|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+MC254|gold sodium thiosulfate|0.5|petrolatum|1|0|0|0|0|0|1|0|0
+PA464|hexachlorophene|1|petrolatum|0|0|0|0|0|0|0|0|0
+RC278|hexamethylenetetramine|1|petrolatum|0|0|0|0|0|0|0|0|0
+EE373|hexylene glycol|10|water|0|0|0|0|0|0|0|0|0
+PC625|hydrazine sulfate|1|petrolatum|0|0|0|0|0|0|0|0|0
+CS496|hydrocortisone|1|petrolatum|0|0|0|0|0|0|0|0|0
+CS994|hydrocortisone aceponate|1|ethanol|0|0|0|0|0|0|0|0|0
+CS494|hydrocortisone-17-butyrate|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+NA93|hydrocortisone-17-butyrate|1|petrolatum|1|0|0|0|0|1|0|1|0
+NA69|hydrocortisone-17-butyrate|1|ethanol|0|0|0|0|0|0|0|0|0
+PC626|hydroquinone|1|petrolatum|0|0|0|0|0|0|0|1|1
+RC279|hydroquinone monobenzylether|1|petrolatum|0|0|0|0|0|0|0|0|0
+PF135|hydroxycitronellal|1|petrolatum|0|0|0|0|0|0|0|0|0
+MS997|ibuprofen|5|petrolatum|0|0|0|0|0|0|0|0|0
+NA43|imidazolidinyl ureaÿ(Germall? 115)|2|petrolatum|1|0|1|1|0|1|0|1|0
+MC249|indium(III) chloride|1|petrolatum|0|0|0|0|0|0|0|0|0
+MS375|indomethacin|1|petrolatum|0|0|0|0|0|0|0|0|0
+EM400|iododeoxyuridine|1|petrolatum|0|0|0|0|0|0|0|0|0
+AP97|iodoform|5|petrolatum|0|0|0|0|0|0|0|0|0
+AP98|iodopropynyl butylcarbamate|0.2|petrolatum|1|1|0|0|0|0|0|0|0
+NA44|iodopropynyl butylcarbamate|0.5|petrolatum|0|0|0|0|0|0|0|1|1
+MC988|iridium(III) chloride|1|petrolatum|0|0|0|0|0|0|0|0|0
+SS507|isoamyl-p-methoxycinnamate|10|petrolatum|0|0|0|0|0|0|0|0|0
+PF137|isoeugenol|1|petrolatum|0|0|0|0|0|0|0|0|0
+PG304|isophorone diamineÿ(IPD)|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+EE351|isopropylmyristate|10|petrolatum|0|0|0|0|0|0|0|0|0
+NA76|jasminum officinale oilÿ(jasminum grandiflorum)|2|petrolatum|1|1|0|0|0|0|0|0|0
+AA420|kanamycin sulfate|10|petrolatum|0|0|0|0|0|0|0|0|0
+MS996|ketoprofen|2.5|petrolatum|0|0|0|0|0|0|0|0|0
+NA64|lanolin alcohol ÿ ÿ|30|petrolatum|0|0|1|1|1|1|1|0|0
+EE374|lauryl glycoside|3|petrolatum|0|0|0|0|0|0|0|0|0
+NA81|lavandula angustifolia oilÿ(lavender oil)|2|petrolatum|0|0|0|0|0|0|0|1|1
+NA233|lichen acid mix|0.3|petrolatum|0|0|0|0|0|0|0|0|0
+NA47|lidocaine-HCl|15|petrolatum|1|1|1|0|0|0|0|1|1
+PF998|limonene hydroperoxide|0.3|petrolatum|0|0|0|0|0|0|0|0|0
+PF997|linalool hydroperoxide|1|petrolatum|0|0|0|0|0|0|0|0|0
+ST161|lyralÿ(4-(4-hydroxy-4-methyl pentyl)-3-cyclohexene-1-carboxaldehyde)|5|petrolatum|0|0|1|1|1|1|0|0|0
+MS376|mafenide|10|petrolatum|0|0|0|0|0|0|0|0|0
+NA77|majantole|5|petrolatum|0|0|0|0|0|0|0|0|0
+MC995|manganese chloride|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+MC977|manganese oxide|10|petrolatum|0|0|0|0|0|0|0|0|0
+PG326|melamine formaldehyde resin|7|petrolatum|0|0|0|0|0|0|0|0|0
+NA82|mentha piperita oilÿ(peppermint oil)|2|petrolatum|0|0|0|0|0|0|0|1|1
+MS377|menthol|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA205|menthyl anthranilateÿ(meradimate)|||0|0|0|0|0|0|0|0|0
+LA521|mepivacaine-HCl|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA48|mercapto mix [A] (N-cyclohexyl-2-benzothiazyl-sulfenamide 0.333%ÿ$$ dibenzothiazyl disulfide 0.333%ÿ$$ morpholinyl mercaptobenzothiazole 0.333%)|1|petrolatum|1|0|0|0|0|0|0|0|0
+ST176|mercapto mix [B] (N-cyclohexyl-2-benzothiazylsulfenamide 0.666%ÿ$$ dibenzothiazyldisulfide 0.666%ÿ$$ morpholinylmercaptobenzothiazole 0.666%)|2|petrolatum|0|0|0|0|0|0|0|0|0
+ST181|mercapto mix [C] (N-cyclohexyl-2-benzothiazylsulphenamide 0.5% $$ dibenzothiazyldisulfide 0.5%ÿ$$ 2-mercaptobenzothiazole 0.5% $$ morpholinylmercaptobenzothiazole 0.5%)|2|petrolatum|0|0|1|1|1|1|1|0|0
+MC250|mercury|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+DM999|mercury-(II)-chloride|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+MS378|metamizol|1|petrolatum|0|0|0|0|0|0|0|0|0
+DC333|metanil yellowÿ(acid yellow 36)|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA49|methyl methacrylate|2|petrolatum|1|1|0|0|0|0|0|1|1
+MS379|methyl salicylate|2|petrolatum|0|0|0|0|0|0|0|0|0
+DC334|methyl violet|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+AP125|methylchloroisothiazolinone/methylisothiazolinone|0.02|water|0|0|1|1|0|1|0|0|0
+NA09|methylchloroisothiazolinone/methylisothiazolinone|0.01|water|1|0|0|0|1|0|1|1|0
+ST177|methyldibromo glutaronitrileÿ(MDBGN)|0.5|petrolatum|1|0|1|0|1|0|0|0|0
+ST165|methyldibromo glutaronitrileÿ(MDBGN)|0.3|petrolatum|0|0|0|1|0|1|0|0|0
+NA50|methyldibromo glutaronitrile/phenoxyethanolÿ(MDBGN/PE-Euxyl K 400)|2|petrolatum|0|0|0|0|0|0|0|1|1
+AP113|methyldibromo glutaronitrile/phenoxyethanolÿ(MDBGN/PE-Euxyl K 400)|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+AP99|methyldibromo glutaronitrile/phenoxyethanolÿ(MDBGN/PE-Euxyl K 400)|1|petrolatum|0|0|0|0|0|0|0|0|0
+CL435|methylene-bis(methyloxazolidin)|1|petrolatum|0|0|0|0|0|0|0|0|0
+AP123|methylisothiazolinone|0.05|water|0|0|0|0|0|1|0|0|0
+AP124|methylisothiazolinone|0.2|water|1|1|1|1|1|0|0|1|1
+AP100|methyl-p-hydroxybenzoate|3|petrolatum|0|0|0|0|0|0|0|0|0
+CS996|methylprednisolone aceponate|0.1|ethanol|0|0|0|0|0|0|0|0|0
+MS380|metronidazole|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA88|mixed dialkyl thioureas (diethylthiourea 0.5%ÿ$$ dibutylthiourea 0.5%)|1|petrolatum|1|1|1|0|0|0|0|1|1
+MC263|molybdenum(V) chloride|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+CS995|mometasone furoate|0.1|ethanol|0|0|0|0|0|0|0|0|0
+CL436|monoethanolamine|2|petrolatum|0|0|0|0|0|0|0|0|0
+RC294|morpholinyl mercaptobenzothiazole|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+PA465|musk ambrette|5|petrolatum|0|0|0|0|0|0|0|0|0
+DM225|N,N-dimethyl-p-toluidine|2|petrolatum|0|0|0|0|0|0|0|0|0
+DC335|naphthol AS|1|petrolatum|0|0|0|0|0|0|0|0|0
+MS998|naproxen|5|petrolatum|0|0|0|0|0|0|0|0|0
+RC281|N-cyclohexyl-2-benzothiazyl-sulfenamide|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA51|neomycin sulfate|20|petrolatum|1|0|1|1|1|1|1|1|0
+PF166|neroli oil|5|petrolatum|0|0|0|0|0|0|0|0|0
+PF140|neroli oil|2|petrolatum|0|0|0|0|0|0|0|0|0
+ST167|nickel sulfate hexahydrate|5|petrolatum|0|0|1|1|1|0|0|0|0
+NA52|nickel sulfate hexahydrate|2.5|petrolatum|1|0|0|0|0|1|1|1|0
+MC981|niobium (V)-chloride|0.2|petrolatum|0|0|0|0|0|0|0|0|0
+ST168|N-isopropyl-N'-phenyl-p-phenylenediamineÿ(IPPD)|0.1|petrolatum|0|0|0|1|1|1|0|0|0
+MS381|nitrofurazone|1|petrolatum|0|0|0|0|0|0|0|0|0
+RC282|N-phenyl-á-naphthylamine|1|petrolatum|0|0|0|0|0|0|0|0|0
+AA421|nystatin|2|petrolatum|0|0|0|0|0|0|0|0|0
+PF138|oakmoss absolue|1|petrolatum|0|0|0|0|0|0|0|0|0
+SS982|octocrylene|10|petrolatum|0|0|0|0|0|0|0|0|0
+EE352|octyl gallate|0.3|petrolatum|0|0|0|0|0|0|0|0|0
+CL437|octylisothiazolinone|0.025|petrolatum|0|0|0|0|0|0|0|0|0
+PF141|oil of bergamot|2|petrolatum|0|0|0|0|0|0|0|0|0
+PF142|oil of cinnamon|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+PF143|oil of cloves|2|petrolatum|0|0|0|0|0|0|0|0|0
+PF144|oil of eucalyptus|2|petrolatum|0|0|0|0|0|0|0|0|0
+PF146|oil of lemon|2|petrolatum|0|0|0|0|0|0|0|0|0
+PF147|oil of lemongrass|2|petrolatum|0|0|0|0|0|0|0|0|0
+PF170|oil of patchouli|10|petrolatum|0|0|0|0|0|0|0|0|0
+PF149|oil of rose|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+PF150|oil of rosemary|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+ST172|oil of turpentine|10|petrolatum|0|0|0|0|0|0|0|0|0
+NA80|oleamidopropyl dimethylamine|0.1|ethanol|1|1|0|0|0|0|0|1|1
+HD478|o-nitro-p-phenylenediamine|1|petrolatum|0|0|0|0|0|0|0|0|0
+PF165|orange oil|2|petrolatum|0|0|0|0|0|0|0|0|0
+MS999|oxyphenbutazone (2 ml syringe)|10|petrolatum|0|0|0|0|0|0|0|0|0
+MS988|oxyquinoline mix (chlorquinaldol 3%ÿ$$ clioquinol 3%)|6|petrolatum|0|0|0|1|0|0|0|0|0
+AA422|oxytetracycline|3|petrolatum|0|0|0|0|0|0|0|0|0
+DM226|palladium chloride|1|petrolatum|0|0|0|0|0|0|0|0|0
+SS504|p-aminobenzoic acid|10|petrolatum|0|0|0|0|0|0|0|0|0
+DC336|p-aminodiphenylamine|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+DC321|p-aminophenol|1|petrolatum|0|0|0|0|0|0|0|0|0
+MS390|para-aminobenzoic acid|5|petrolatum|0|0|0|0|0|0|0|0|0
+ST169|paraben mix [A] (methyl-p-hydroxybenzoate 4%ÿ$$ propyl-p-hydroxybenzoate 4%ÿ$$ butyl-p-hydroxybenzoate 4%ÿ$$ ethyl-p-hydroxybenzoate 4%)|16|petrolatum|0|0|0|1|1|1|0|0|0
+NA53|paraben mix [B] (methyl-p-hydroxybenzoate 3%ÿ$$ propyl-p-hydroxybenzoate 3%ÿ$$ butyl-p-hydroxybenzoate 3% $$ ethyl-p-hydroxybenzoate 3%)|12|petrolatum|1|0|1|0|0|0|0|1|0
+AP112|paraben mix [C] (methyl p-hydroxybenzoate 3%ÿ$$ propyl p-hydroxybenzoate 3%ÿ$$ buthyl p-hydroxybenzoate 3%ÿ$$ benzyl p-hydroxybenzoate 3%ÿ$$ ethyl p-hydroxybenzoate 3%)|15|petrolatum|0|0|0|0|0|0|1|0|0
+MS382|paracetamol|10|petrolatum|0|0|0|0|0|0|0|0|0
+ST173|parthenolide|0.1|petrolatum|1|0|0|0|0|0|0|1|0
+FA191|patent blue-VF|0.25|water|0|0|0|0|0|0|0|0|0
+FA192|pectin|1|water|0|0|0|0|0|0|0|0|0
+PG327|pentaerythritoltriacrylatÿ(PETA)|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+EE353|petrolatum|100|petrolatum|0|0|0|0|0|0|1|0|0
+MS993|phenacetine|10|petrolatum|0|0|0|0|0|0|0|0|0
+MS395|phenazone|5|petrolatum|0|0|0|0|0|0|0|0|0
+PG306|phenol-formaldehyde-resin|5|petrolatum|0|0|0|0|0|0|0|0|0
+DC337|phenolphthalein|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+CL438|phenoxyethanol|1|petrolatum|1|1|0|0|0|0|0|0|0
+PG328|phenyl glycidyl ether|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+PF151|phenyl salicylate|1|petrolatum|0|0|0|0|0|0|0|0|0
+PA466|phenylbenzimidazole-5-sulfonic acid|10|petrolatum|0|0|0|0|0|0|0|0|0
+MS383|phenylbutazone|10|petrolatum|0|0|0|0|0|0|0|0|0
+EM410|phenylephrine hydrochloride|10|water|0|0|0|0|0|0|0|0|0
+PG307|phenylisocyanate|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+AP101|phenylmercuric acetate|0.05|petrolatum|0|0|0|0|0|0|0|0|0
+AP102|phenylmercuric nitrate|0.01|petrolatum|0|0|0|0|0|0|0|0|0
+EM411|pilocarpine hydrochloride|1|water|0|0|0|0|0|0|0|0|0
+EM404|pindolol|2|petrolatum|0|0|0|0|0|0|0|0|0
+NH450|pine tar|3|petrolatum|0|0|0|0|0|0|0|0|0
+MS396|piperazine|1|petrolatum|0|0|0|0|0|0|0|0|0
+MS992|piroxicam|1|petrolatum|0|0|0|0|0|0|0|0|0
+MC997|platine chlorideÿ(platinum tetrachloride)|1|petrolatum|0|0|0|0|0|0|0|0|0
+LA522|polidocanol|3|petrolatum|0|0|0|0|0|0|0|0|0
+EE354|polyethylene glycol ointment|100||0|0|0|0|0|0|0|0|0
+EE355|polyethylene glycol-400|100||0|0|0|0|0|0|0|0|0
+EM405|polymyxin B sulfate|3|petrolatum|0|0|0|0|0|0|0|0|0
+ST170|potassium dichromate|0.5|petrolatum|0|0|1|1|1|1|1|0|0
+NA54|potassium dichromate|0.25|petrolatum|1|0|0|0|0|0|0|1|0
+DM227|potassium dicyanoaurate|0.002|petrolatum|0|0|0|0|0|0|0|0|0
+MC251|potassiumchromate(III) sulfate|2|water|0|0|0|0|0|0|0|0|0
+AP103|povidone iodine|10|water|0|0|0|0|0|0|0|0|0
+CS993|prednicarbate|1|ethanol|0|0|0|0|0|0|0|0|0
+CS503|prednisolone|1|petrolatum|0|0|0|0|0|0|0|0|0
+NH451|primin|0.01|petrolatum|0|0|0|0|1|0|1|0|0
+LA526|procaine-HCl|1|petrolatum|0|0|0|0|0|0|0|0|0
+LA523|procaine-HCl|2|petrolatum|0|0|0|0|0|0|0|0|0
+PA467|promethazine-HCl|2|petrolatum|0|0|0|0|0|0|0|0|0
+EM406|propanolol-HCl|2|petrolatum|0|0|0|0|0|0|0|0|0
+NA71|propolis|10|petrolatum|1|1|0|0|0|0|0|1|1
+AP104|propyl gallate|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+EE356|propylene glycol|20|water|0|0|0|0|0|0|0|0|0
+CL441|propylene glycol|5|petrolatum|0|0|1|0|0|0|0|0|0
+NA96|propylene glycol|100||0|0|0|0|0|0|0|1|1
+NA55|propylene glycol|30|water|1|1|0|0|0|0|0|1|1
+AP105|propyl-p-hydroxybenzoate|3|petrolatum|0|0|0|0|0|0|0|0|0
+MS385|propyphenazone|1|petrolatum|0|0|0|0|0|0|0|0|0
+PG308|p-tert-butylphenol|1|petrolatum|0|0|0|0|0|0|0|0|0
+HD483|p-toluenediamine|1|petrolatum|0|0|0|0|0|0|0|0|0
+HD479|p-toluenediamine sulfate|1|petrolatum|0|0|0|0|0|0|0|0|0
+HD480|pyrogallol|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA56|quaternium 15|2|petrolatum|1|0|0|0|0|1|0|1|0
+AP106|quaternium 15|1|petrolatum|0|0|1|1|1|0|0|0|0
+PA468|quinidine sulfate|1|petrolatum|0|0|0|0|0|0|0|0|0
+FA193|quinoline yellow|0.1|water|0|0|0|0|0|0|0|0|0
+HD481|resorcinol|1|petrolatum|0|0|0|0|0|0|0|0|0
+HD484|resorcinol|2|petrolatum|0|0|0|0|0|0|0|0|0
+PG309|resorcinol-formaldehyde-resin|5|petrolatum|0|0|0|0|0|0|0|0|0
+MC998|rhodium chloride|2|petrolatum|0|0|0|0|0|0|0|0|0
+MC252|ruthenium|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+FA194|saccharin|0.1|water|0|0|0|0|0|0|0|0|0
+PF152|salicylaldehyde|2|petrolatum|0|0|0|0|0|0|0|0|0
+PG329|salicylamide|2|petrolatum|0|0|0|0|0|0|0|0|0
+MS387|salicylic acid|5|petrolatum|0|0|0|0|0|0|0|0|0
+MC993|samarium(III) chloride|1.5|petrolatum|0|0|0|0|0|0|0|0|0
+PF168|sandalwood oil|10|petrolatum|0|0|0|0|0|0|0|0|0
+NA57|sesquiterpenelactone mix (alantolactone 0.033%ÿ$$ costunolide 0.033%ÿ$$ dehydrocostuslactone 0.033%)|0.1|petrolatum|1|1|1|1|1|1|1|1|1
+NA78|shellac (supplied in a tube)|20|ethanol|0|0|0|0|0|0|0|0|0
+MC253|silver colloidal|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+MC266|silver nitrate|1|water|0|0|0|0|0|0|0|0|0
+FA195|sodium alginate|1|water|0|0|0|0|0|0|0|0|0
+AP107|sodium benzoate|5|petrolatum|0|0|0|0|0|0|0|0|0
+AP122|sodium benzoate|2|petrolatum|0|0|0|0|0|0|0|0|0
+FA196|sodium diphosphate|1|water|0|0|0|0|0|0|0|0|0
+EM408|sodium disulfite|1|petrolatum|0|0|0|1|0|0|0|0|0
+FA198|sodium formiate|2|water|0|0|0|0|0|0|0|0|0
+FA199|sodium glutamate|1|water|0|0|0|0|0|0|0|0|0
+EE370|sodium lauryl sulfate|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+EE372|sodium lauryl sulfate|0.25|water|0|0|0|0|0|0|0|0|0
+FA200|sodium nitrite|2|water|0|0|0|0|0|0|0|0|0
+CL439|sodium-2-pyridinethiol-1-oxideÿ(sodium-omadine)|0.1|water|0|0|0|0|0|0|0|0|0
+AP108|sorbic acid|2|petrolatum|1|1|0|0|0|0|0|0|0
+FA202|sorbic acid|2|ethanol|0|0|0|0|0|0|0|0|0
+EE369|sorbitan monooleateÿ(span?ÿ80)|5|petrolatum|0|0|0|0|0|0|0|0|0
+EE357|sorbitan sesquioleate|20|petrolatum|1|1|0|0|0|0|0|0|0
+EE365|stearyl alcohol|30|petrolatum|0|0|0|0|0|0|0|0|0
+AA423|streptomycin sulfate|5|petrolatum|0|0|0|0|0|0|0|0|0
+AA424|sulfanilamide|5|petrolatum|0|0|0|0|0|0|0|0|0
+MS389|sulphur, precipitated|10|petrolatum|0|0|0|0|0|0|0|0|0
+MC255|tantal|1|petrolatum|0|0|0|0|0|0|0|0|0
+FA204|tartrazine|1|water|0|0|0|0|0|0|0|0|0
+NA58|tea tree oil, oxidized|5|petrolatum|1|1|1|0|0|0|0|1|1
+SS505|tert.-butyl methoxydibenzoyl methane|10|petrolatum|0|0|0|0|0|0|0|0|0
+EE358|tert-butylhydroquinone|1|petrolatum|0|0|0|0|0|0|0|0|0
+DM229|tetracaine-HCl|1|petrolatum|0|0|0|0|0|0|0|0|0
+AA425|tetracycline-HCl|2|petrolatum|0|0|0|0|0|0|0|0|0
+RC283|tetraethylthiuram disulfide|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+PG330|tetrahydrofurfuryl methacrylate|2|petrolatum|0|0|0|0|0|0|0|0|0
+RC285|tetramethyl thiuram monosulfideÿ(TMTM)|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+RC284|tetramethylthiuram disulfide|0.25|petrolatum|0|0|0|0|0|0|0|0|0
+DC342|textile dye mix|6.6|petrolatum|0|0|0|0|1|0|0|0|0
+MS397|thiamin nitrate|10|petrolatum|0|0|0|0|0|0|0|0|0
+EM409|thimerosal|0.1|petrolatum|0|0|0|0|0|0|1|0|0
+AP109|thimerosal|1|petrolatum|0|0|0|0|0|0|0|0|0
+RC286|thiourea|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+NA60|thiuram mix [A] (tetrametyhl thiuram monosulfide 0.25% $$ tetramethyl thiuram disulfide 0.25%ÿ$$ tetraethyl thiuram disulfide 0.25%ÿ$$ dipentamethylene thiuram disulfide 0.25%)|1|petrolatum|1|0|1|1|1|1|0|1|0
+RC289|thiuram mix [B] (tetramethyl thiuram disulfide 0.25%ÿ$$ tetraethyl thiuram disulfide 0.25%ÿ$$ tetramethyl thiuram monosulfide 0.25%ÿ$$ dipentamethylene thiuram tetrasulfide 0.25%ÿ$$ tetra-n-buthyl thiuram disulfide 0.25%)|1.25|petrolatum|0|0|0|0|0|0|1|0|0
+AP120|thymol|1|petrolatum|0|0|0|0|0|0|0|0|0
+DM230|tin(II) chloride|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+NA221|tinosorb (methylene-bis-benzotriazolyl tetramethylbutylphenol)|10|petrolatum|0|0|0|0|0|0|0|0|0
+MC260|titanium|1|petrolatum|0|0|0|0|0|0|0|0|0
+MC256|titanium(IV) oxide|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+CS498|tixocortol-21-pivalate|0.1|petrolatum|0|0|0|0|1|1|0|0|0
+NA61|tixocortol-21-pivalate|1|petrolatum|1|0|1|1|0|0|0|1|0
+NH452|tolu balsam|20|petrolatum|0|0|0|0|0|0|0|0|0
+PG310|toluene 2,4-diisocyanate|1|petrolatum|0|0|0|0|0|0|0|0|0
+NA62|tosylamide formaldehyde resin|10|petrolatum|1|1|1|0|0|1|0|1|1
+PF171|Tree Moss|1|petrolatum|0|0|0|0|0|0|0|0|0
+CS499|triamcinolone acetonide|1|petrolatum|1|1|1|0|0|0|0|0|0
+CS505|triamcinolone acetonide|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+AP110|triclosan|2|petrolatum|1|1|0|0|0|0|0|0|0
+PG312|tricresyl phosphate|5|petrolatum|0|0|0|0|0|0|0|0|0
+EE359|triethanolamine|2.5|petrolatum|0|0|0|0|0|0|0|0|0
+DM231|triethyleneglycol dimethacrylateÿ(TEGDMA)|2|petrolatum|0|0|0|0|0|0|0|0|0
+PG313|triethylenetetramine|0.5|petrolatum|0|0|0|0|0|0|0|0|0
+PG314|triphenyl phosphate|5|petrolatum|0|0|0|0|0|0|0|0|0
+MC238|tungstic acid, sodium salt dihydrate|2|water|0|0|0|0|0|0|0|0|0
+NH453|turpentine peroxide|0.3|petrolatum|0|0|0|0|0|0|0|0|0
+EE360|tween 40|10|petrolatum|0|0|0|0|0|0|0|0|0
+EE361|tween 80|10|petrolatum|0|0|0|0|0|0|0|0|0
+PG325|urea formaldehyde resin|10|petrolatum|0|0|0|0|0|0|0|0|0
+DM223|urethane dimethacrylate|2|petrolatum|0|0|0|0|0|0|0|0|0
+NH454|usnic acid|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+MC267|vanadium pentoxide|10|petrolatum|0|0|0|0|0|0|0|0|0
+PF153|vanillin|10|petrolatum|0|0|0|0|0|0|0|0|0
+MC996|wolfram|5|petrolatum|0|0|0|0|0|0|0|0|0
+NH455|wood tar mix (birch tar 3% $$ juniper wood oil 3% $$ beech tar 3% $$ canadian balsam 3%)|12|petrolatum|0|0|0|0|0|0|0|0|0
+EE362|wool alcohols ointment|100||0|0|0|0|0|0|0|0|0
+EE363|wool fat|30|petrolatum|0|0|0|0|0|0|0|0|0
+RC268|zinc bis(dibutyldithiocarbamate)|1|petrolatum|0|0|0|0|0|0|0|0|0
+ST162|zinc bis(diethyldithiocarbamate)|1|petrolatum|0|0|0|0|0|0|0|0|0
+MC257|zinc chloride|1|petrolatum|0|0|0|0|0|0|0|0|0
+MC258|zinc powder|1|petrolatum|0|0|0|0|0|0|0|0|0
+AP111|zinc pyrithione|0.1|petrolatum|0|0|0|0|0|0|0|0|0
+MC268|zinc sulfate|1|petrolatum|0|0|0|0|0|0|0|0|0
+MC259|zirconium (IV) oxide|0.1|petrolatum|0|0|0|0|0|0|0|0|0

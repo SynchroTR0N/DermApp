@@ -1,0 +1,61 @@
+#: import main main
+#: import ListAdapter kivy.adapters.listadapter.ListAdapter
+
+
+DermRoot:
+
+<DermRoot>:
+    DemographForm
+
+<DemographForm>:
+    orientation: "vertical"
+      
+    GridLayout:
+        age_input: age_input
+        sex: sex
+
+        cols: 2
+        Label:
+            text: "Patient's Age:"
+        TextInput:
+            id: age_input
+            focus: True
+            multiline: False
+        Label:
+            text: "Sex:"
+        ToggleButton:
+            id: sex 
+            text: "Male" if self.state == 'normal' else "Female"
+        Label:
+            text: "Standard Series to Include?"
+        GridLayout:
+            nadcg: nadcg
+            icdrg: icdrg
+            escd: escd 
+            true: true
+            ivdk: ivdk
+
+            cols: 2
+            CheckBox:
+                id: nadcg
+            Label:
+                text: "North American Contact Dermatitis\nGroup Screening Series (NACDG)"
+            CheckBox:
+                id: icdrg
+            Label:
+                text: "International Contact Dermatitis\nResearch Group Screening Series(ICDRG)"
+            CheckBox:
+                id: escd
+            Label:
+                text: "European Society of Contact Dermatitis\nScreening Series(ESCD)"
+            CheckBox:
+                id: true
+            Label:
+                text: "TRUE Test Screening Series"
+            CheckBox:
+                id: ivdk
+            Label:
+                text: "Informationsverbund Dermatologischer\nKlinike  Screening Series(IVDK)"
+    Button:
+        text: "Add Entry to Database"
+        on_press: root.add_entry(dict_of_form = 'how do I get this?')
