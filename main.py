@@ -6,6 +6,7 @@ from kivy.uix.checkbox import CheckBox
 from kivy.uix.togglebutton import ToggleButton
 from kivy.uix.button import Button
 
+from kivy.core.window import Window
 
 class DermRoot(BoxLayout):
     dict_filled_from_form = {}

@@ -13,14 +13,19 @@ DermRoot:
 
 <DemographForm>:
     orientation: "vertical"
-      
+    Label:
+        text: "Computer Assisted Patch Testing" 
     GridLayout:
         age_input: age_input
         sex: sex
 
         cols: 2
         Label:
+            height: "40dp"
+            size_hint_y: None
             text: "Patient's Age:"
+            height: "40dp"
+            size_hint_y: None
         TextInput:
             id: age_input
             text: root.data['age'] if 'age' in root.data else ''
@@ -28,62 +33,112 @@ DermRoot:
             multiline: False
         Label:
             text: "Sex:"
+            height: "40dp"
+            size_hint_y: None
         ToggleButton:
             id: sex 
+            height: "40dp"
+            size_hint_y: None
             state: root.data['sex'] if 'sex' in root.data else 'normal'
             text: "Male" if self.state == 'normal' else "Female"
             on_press: root.data['sex'] = self.state
+    Label:
+        text: "Standard Series to Include?"
+    GridLayout:
+        cols: 4
+        CheckBox:
+            id: AC
+            active: root.data['AC'] if 'AC' in root.data else False
+            on_active: root.data['AC'] = self.active  
         Label:
-            text: "Standard Series to Include?"
-        GridLayout:
-            cols: 2
-            CheckBox:
-                id: AC
-                active: root.data['AC'] if 'AC' in root.data else False
-                on_active: root.data['AC'] = self.active  
-            Label:
-                text: "AC"
-            CheckBox:
-                id: AU
-                active: root.data['AU'] if 'AU' in root.data else False
-                on_active: root.data['AU'] = self.active  
-            Label:
-                text: "AU"
-            CheckBox:
-                id: BB
-                active: root.data['BB'] if 'BB' in root.data else False
-                on_active: root.data['BB'] = self.active  
-            Label:
-                text: "BB"
-            CheckBox:
-                id: EU
-                active: root.data['EU'] if 'EU' in root.data else False
-                on_active: root.data['EU'] = self.active  
-            Label:
-                text: "EU"
-            CheckBox:
-                id: JP
-                active: root.data['JP'] if 'JP' in root.data else False
-                on_active: root.data['JP'] = self.active  
-            Label:
-                text: "JP"
-            CheckBox:
-                id: IC
-                active: root.data['IC'] if 'IC' in root.data else False
-                on_active: root.data['IC'] = self.active  
-            Label:
-                text: "IC" 
-            CheckBox:
-                id: NA
-                active: root.data['NA'] if 'NA' in root.data else False
-                on_active: root.data['NA'] = self.active  
-            Label:
-                text: "NA"
+            text: "AC"
+        CheckBox:
+            id: AU
+            active: root.data['AU'] if 'AU' in root.data else False
+            on_active: root.data['AU'] = self.active  
+        Label:
+            text: "AU"
+        CheckBox:
+            id: BB
+            active: root.data['BB'] if 'BB' in root.data else False
+            on_active: root.data['BB'] = self.active  
+        Label:
+            text: "BB"
+        CheckBox:
+            id: EU
+            active: root.data['EU'] if 'EU' in root.data else False
+            on_active: root.data['EU'] = self.active  
+        Label:
+            text: "EU"
+        CheckBox:
+            id: JP
+            active: root.data['JP'] if 'JP' in root.data else False
+            on_active: root.data['JP'] = self.active  
+        Label:
+            text: "JP"
+        CheckBox:
+            id: IC
+            active: root.data['IC'] if 'IC' in root.data else False
+            on_active: root.data['IC'] = self.active  
+        Label:
+            text: "IC" 
+        CheckBox:
+            id: NA
+            active: root.data['NA'] if 'NA' in root.data else False
+            on_active: root.data['NA'] = self.active  
+        Label:
+            text: "NA"
+    Label:
+        text: "Occupational Exposures"
+    GridLayout:
+        cols: 4
+        CheckBox:
+            id: dent_work
+            active: root.data['dent_work'] if 'dent_work' in root.data else False
+            on_active: root.data['dent_work'] = self.active  
+        Label:
+            text: "Dental Worker"
+        CheckBox:
+            id: machinist
+            active: root.data['machinist'] if 'machinist' in root.data else False
+            on_active: root.data['machinist'] = self.active  
+        Label:
+            text: "Machinist"
+        CheckBox:
+            id: floor_nursery
+            active: root.data['floor_nursery'] if 'floor_nursery' in root.data else False
+            on_active: root.data['floor_nursery'] = self.active  
+        Label:
+            text: "Floorist or Nursery"
+        CheckBox:
+            id: chef
+            active: root.data['chef'] if 'chef' in root.data else False
+            on_active: root.data['chef'] = self.active  
+        Label:
+            text: "Chef"
+        CheckBox:
+            id: hcp
+            active: root.data['hcp'] if 'hcp' in root.data else False
+            on_active: root.data['hcp'] = self.active  
+        Label:
+            text: "Health Care Professional"
+        CheckBox:
+            id: hairdresser
+            active: root.data['hairdresser'] if 'hairdresser' in root.data else False
+            on_active: root.data['hairdresser'] = self.active  
+        Label:
+            text: "Hairdresser/Cosmetologist" 
+        CheckBox:
+            id: NA
+            active: root.data['NA'] if 'NA' in root.data else False
+            on_active: root.data['NA'] = self.active  
+        Label:
+            text: "NA"
 
     Button:
         height: "40dp"
         size_hint_y: None
-        text: "Add Entry to Database"
+        text: "Claculate CAPt"
         # dispatch our new `on_save` event
         on_press: print(root.data)
         #on_press: root.dispatch('on_save', root.data)
